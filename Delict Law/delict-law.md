@@ -293,88 +293,105 @@ Alongside the primary sanctions, the following supplementary sanctions may be im
     f. Termination of Employment.
 
 #### Article 26: Admonition
-In instances where the offense committed is of a minor nature and the offender exhibits signs of remorse or a low likelihood of reoffending, the Adjudicating Organ may opt to issue an Admonition, which may be conveyed either orally or in writing.
-Prior to issuing an Admonition, the Adjudicating Organ is required to:
-Clearly explain to the offender the nature of the offense and the possible consequences thereof;
-Obtain an acknowledgment from the offender of their misconduct; and
-Secure a commitment from the offender to refrain from repeating the offense. This commitment should be deemed by the Adjudicating Organ as likely to be effective in preventing not only the recurrence of the same offense but also the perpetration of other delicts.
-Loss of Merit
-Section 1: Imposition of Loss of Merit
-The principal penalty for committing an Administrative Offense under this Law shall be the Loss of Merit, which entails a deduction from the offender's Liberland Merit (LLM) account balance.
-The extent of the LLM deduction shall be commensurate with the offense's severity. Offenses that necessitate a deduction of 50,000 LLM or more shall be classified as highly severe.
-Section 2: Alternative Penalty Payment
-Offenders have the option to pay a monetary fine to the Government as an alternative to the Loss of Merit. This fine shall be equivalent to the value of the penalty assessed in LLM and may be paid in any currency recognized as valid by Liberland.
-The fine is payable to the Adjudicating Organ within eight working days from the date of imposition, in an accepted form of currency. Upon full payment of the stipulated amount, the penalty of Loss of Merit shall be considered resolved.
-Restitution and Compensation
-Section 1: Restitution by the Perpetrator
-The Adjudicating Organ shall have the authority to order a Perpetrator to make restitution for any form of damage inflicted upon the victim. 
-This restitution must cover all damages, whether direct or indirect, and must be carried out promptly and at the Perpetrator's expense.
-Section 2: Compensation in Lieu of Restitution
-In cases where restitution is deemed impossible or impractical, the Adjudicating Organ shall have the discretion to impose a Compensation order instead. This Compensation shall be calculated based on the actual market value of the damages incurred.
-The Adjudicating Organ may determine a sanction that combines both Restitution and Compensation, tailored to address the specific circumstances of the harm caused.
-Where the determination of the costs to compensate seems difficult, this determination might be made a part of the sanction and will provided according to best available practices, with full audit trail and transparency,  and at the cost of the Perpetrator.
-Section 3: Transition from Restitution to Compensation
-If, subsequent to the imposition of a Restitution order, it becomes apparent to the Perpetrator that restitution cannot be feasibly executed, the sanction shall then be considered as one of Compensation. 
-All cases like this will involve the Perpetrator being responsible for the determination of costs for the Compensation.
-Activity Prohibition
-The Adjudicating Organ may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
-The sanction of Activity Prohibition is applicable under the following conditions:
-The offense results in a Loss of Merit penalty exceeding 500 LLM, and the actual Loss of Merit imposed is near or above this threshold; or
-In instances of repeated offenses of the same or similar Delicts performed in conjunction with the given activity, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 5,000 LLM, 
-and the overall impact of the offense on public safety or welfare is significant.
-For first-time offenders of non-criminal Delicts, the prohibition shall not exceed six months, and for repeat offenders, up to 6 months. For all the other offenders, the prohibition shall not exceed 24 months unless the Delict is a Crime.
-Asset Forfeiture
-Section 1: Grounds for Asset Forfeiture
-Asset Forfeiture shall be considered when a delict involves the use of any object or animal, and the continued possession of such object or animal by the perpetrator presents a public risk.
-Asset Forfeiture is applicable under the following conditions:
-The offense results in a Loss of Merit penalty exceeding 500 Liberland Merit (LLM), with the actual Loss of Merit imposed being near or above this threshold; or
-In cases of repeated offenses of the same or similar delicts involving the use of the asset in question, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 1,000 LLM, and the offense significantly impacts public safety or welfare.
-Section 2: Conditional and Full Forfeitur
-For less serious delicts or for first-time perpetrators, a "conditional" forfeiture may be issued. 
-This places the offender on a probationary period of up to 12 months, during which full forfeiture will be enforced for any repeated offense involving the object or animal, regardless of the offense's severity.
-Section 3: Forfeiture of Animals
+1. In instances where the offense committed is of a minor nature and the offender exhibits signs of remorse or a low likelihood of reoffending, the Adjudicating Organ may opt to issue an Admonition, which may be conveyed either orally or in writing.
+2. Prior to issuing an Admonition, the Adjudicating Organ is required to:
+   a. Clearly explain to the offender the nature of the offense and the possible consequences thereof;
+   b. Obtain an acknowledgment from the offender of their misconduct; and
+   c. Secure a commitment from the offender to refrain from repeating the offense. This commitment should be deemed by the Adjudicating Organ as likely to be effective in preventing not only the recurrence of the same offense but also the perpetration of other delicts.
+
+#### Article 27: Loss of Merit
+##### Section 1: Imposition of Loss of Merit
+1. The principal penalty for committing an Administrative Offense under this Law shall be the Loss of Merit, which entails a deduction from the offender's Liberland Merit (LLM) account balance.
+2. The extent of the LLM deduction shall be commensurate with the offense's severity. Offenses that necessitate a deduction of 50,000 LLM or more shall be classified as highly severe.
+
+##### Section 2: Alternative Penalty Payment
+1. Offenders have the option to pay a monetary fine to the Government as an alternative to the Loss of Merit. This fine shall be equivalent to the value of the penalty assessed in LLM and may be paid in any currency recognized as valid by Liberland.
+2. The fine is payable to the Adjudicating Organ within eight working days from the date of imposition, in an accepted form of currency. Upon full payment of the stipulated amount, the penalty of Loss of Merit shall be considered resolved.
+
+#### Article 28: Restitution and Compensation
+##### Section 1: Restitution by the Perpetrator
+1. The Adjudicating Organ shall have the authority to order a Perpetrator to make restitution for any form of damage inflicted upon the victim. 
+2. This restitution must cover all damages, whether direct or indirect, and must be carried out promptly and at the Perpetrator's expense.
+
+##### Section 2: Compensation in Lieu of Restitution
+1. In cases where restitution is deemed impossible or impractical, the Adjudicating Organ shall have the discretion to impose a Compensation order instead. This Compensation shall be calculated based on the actual market value of the damages incurred.
+2. The Adjudicating Organ may determine a sanction that combines both Restitution and Compensation, tailored to address the specific circumstances of the harm caused.
+3. Where the determination of the costs to compensate seems difficult, this determination might be made a part of the sanction and will provided according to best available practices, with full audit trail and transparency,  and at the cost of the Perpetrator.
+
+##### Section 3: Transition from Restitution to Compensation
+1. If, subsequent to the imposition of a Restitution order, it becomes apparent to the Perpetrator that restitution cannot be feasibly executed, the sanction shall then be considered as one of Compensation. 
+2. All cases like this will involve the Perpetrator being responsible for the determination of costs for the Compensation.
+
+#### Article 29: Activity Prohibition
+1. The Adjudicating Organ may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
+2. The sanction of Activity Prohibition is applicable under the following conditions:
+    a. The offense results in a Loss of Merit penalty exceeding 500 LLM, and the actual Loss of Merit imposed is near or above this threshold; or
+    b. In instances of repeated offences of the same or similar Delicts performed in conjunction with the given activity, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 5,000 LLM, 
+and the overall impact of the offence on public safety or welfare is significant.
+3. For first-time offenders of non-criminal Delicts, the prohibition shall not exceed six months, and for repeat offenders, up to 6 months.
+4. For all the other offenders, the prohibition shall not exceed 24 months unless the Delict is a Crime.
+
+#### Article 30: Asset Forfeiture
+##### Section 1: Grounds for Asset Forfeiture
+1. Asset Forfeiture shall be considered when a delict involves the use of any object or animal, and the continued possession of such object or animal by the perpetrator presents a public risk.
+2. Asset Forfeiture is applicable under the following conditions:
+    a. The offense results in a Loss of Merit penalty exceeding 500 Liberland Merit (LLM), with the actual Loss of Merit imposed being near or above this threshold; or
+    b. In cases of repeated offenses of the same or similar delicts involving the use of the asset in question, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 1,000 LLM, and the offense significantly impacts public safety or welfare.
+##### Section 2: Conditional and Full Forfeitur
+1. For less serious delicts or for first-time perpetrators, a "conditional" forfeiture may be issued. 
+2. This places the offender on a probationary period of up to 12 months, during which full forfeiture will be enforced for any repeated offense involving the object or animal, regardless of the offense's severity.
+
+##### Section 3: Forfeiture of Animals
 Forfeiture may apply to animals in instances of evident mistreatment by the perpetrator, even in cases where the misdemeanor is not directly connected to the animal. This provision is predicated on the assurance that the animal's welfare will be better secured post-forfeiture.
-Processual Forfeiture
-In instances where a Delict bears a direct relation to any legal process, be it judicial, administrative, or political (such as voting), and results in significant disturbance or delay of said process, accompanied by incurred costs either directly or indirectly attributable to the Delict, the Adjudicating Organ is vested with the authority to compel the perpetrator to reimburse all costs arising directly and indirectly from their delictuous actions, pertaining solely to the affected process.
-Should the disruption be deemed extreme or recurrent, to the extent that it constitutes a flagrant disregard for the institution of Justice or public order, in particular where the action or some of the actions fulfil the definition of a Crime, the Adjudicating Organ possesses the discretion to:
-Terminate the perpetrator's participation in the ongoing proceedings; and
-Forfeit their case outright.
-Public Blacklist Inclusion
-Section 1: Criteria for Inclusion
+
+#### Article 31: Processual Forfeiture
+1. In instances where a Delict bears a direct relation to any legal process, be it judicial, administrative, or political (such as voting), and results in significant disturbance or delay of said process, accompanied by incurred costs either directly or indirectly attributable to the Delict, the Adjudicating Organ is vested with the authority to compel the perpetrator to reimburse all costs arising directly and indirectly from their delictuous actions, pertaining solely to the affected process.
+2. Should the disruption be deemed extreme or recurrent, to the extent that it constitutes a flagrant disregard for the institution of Justice or public order, in particular where the action or some of the actions fulfil the definition of a Crime, the Adjudicating Organ possesses the discretion to:
+    a. Terminate the perpetrator's participation in the ongoing proceedings; and
+    b. Forfeit their case outright.
+#### Article 32: Public Blacklist Inclusion
+##### Section 1: Criteria for Inclusion
 The Ministry of Justice shall maintain a Public Blacklist where individuals or entities will be listed under the following conditions:
-Conviction of a misdemeanor that results in a penalty of 5,000 Liberland Merit (LLM) or more;
-A negative LLM balance resulting from the accumulation of penalties.
-Section 2: Duration of Listing
-The inclusion of an individual or entity on the Public Blacklist shall persist until either of the following conditions is met:
-The LLM balance of the blacklisted party is replenished to a minimum of one LLM; or
-The data retention period designated for the specific Delict prompting the listing elapses. In instances where the listing results from multiple Delicts, the listing shall remain effective until the data retention period expires for the last of such Delicts.
-Section 3: Special Consideration for Minor Delicts
-Individuals or entities penalized with cumulative penalties of less than 1,500 LLM will initially be placed on a special list. They will be given a period of six months to settle their penalties.
-Failure to rectify the outstanding LLM balance within this six-month period will result in their names being transferred to the Public Blacklist alongside other perpetrators.
-Temporary or Permanent Reassignment as a Disciplinary Measure
-Section 1: Criteria and Duration for Temporary Reassignment
-The Perpetrator who is an Agent who exhibits a blatant disregard for established protocols or lacks basic prudence, thereby increasing the risk of further harm in their current role, may be subject to temporary reassignment. 
-This decision is at the discretion of the Adjudicating Organ, which can mandate reassignment within the same Agency or a temporary transfer to another Agency under its disciplinary jurisdiction.
-Agents have the option to decline the temporary reassignment; however, such refusal may be considered a basis for termination of employment.
-The length of a Temporary Reassignment shall not exceed six consecutive months, or a cumulative total of twelve months in cases where the Agent's service in the reassigned position is not continuous.
-Section 2: Criteria for Permanent Reassignment
+    a. Conviction of a misdemeanor that results in a penalty of 5,000 Liberland Merit (LLM) or more;
+    b. A negative LLM balance resulting from the accumulation of penalties.
+
+##### Section 2: Duration of Listing
+1. The inclusion of an individual or entity on the Public Blacklist shall persist until either of the following conditions is met:
+2. The LLM balance of the blacklisted party is replenished to a minimum of one LLM; or
+3. The data retention period designated for the specific Delict prompting the listing elapses. In instances where the listing results from multiple Delicts, the listing shall remain effective until the data retention period expires for the last of such Delicts.
+
+##### Section 3: Special Consideration for Minor Delicts
+1. Individuals or entities penalized with cumulative penalties of less than 1,500 LLM will initially be placed on a special list. They will be given a period of six months to settle their penalties.
+2. Failure to rectify the outstanding LLM balance within this six-month period will result in their names being transferred to the Public Blacklist alongside other perpetrators.
+
+#### Article 33: Temporary or Permanent Reassignment as a Disciplinary Measure
+##### Section 1: Criteria and Duration for Temporary Reassignment
+1. The Perpetrator who is an Agent who exhibits a blatant disregard for established protocols or lacks basic prudence, thereby increasing the risk of further harm in their current role, may be subject to temporary reassignment. 
+2. This decision is at the discretion of the Adjudicating Organ, which can mandate reassignment within the same Agency or a temporary transfer to another Agency under its disciplinary jurisdiction.
+3. Agents have the option to decline the temporary reassignment; however, such refusal may be considered a basis for termination of employment.
+4. The length of a Temporary Reassignment shall not exceed six consecutive months, or a cumulative total of twelve months in cases where the Agent's service in the reassigned position is not continuous.
+
+##### Section 2: Criteria for Permanent Reassignment
 Permanent Reassignment of an Agent to a different Agency can only proceed with the Agent's informed consent. Without such consent, reassignment shall remain temporary, limited to a maximum of six months, whether served consecutively or in total.
-Termination of Employment
-The Adjudicating Organ may terminate the employment or other relationship of a Perpetrator who is an an Agent with their respective Agency if the Agent's conduct in connection with a Delict:
-demonstrates repeated, flagrant violations of established protocols or basic prudence or a constant alarming lack of basic skill required for the job;
-poses an immediate and significant risk to the interests of Liberland or their Agency, already having caused significant level of damage to them; and
-indicates a low likelihood of behavioral improvement, demonstrated by a stated or implicit unwillingness to make the required changes.
-Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct.
-Title 4: Record of Delicts and Information Disclosure
-Record-Keeping and Data Retention
-Section 1: Authority for Record-Keeping
-The Ministry of Justice is responsible for maintaining a comprehensive record of all Delicts, including the identification of perpetrators, the sanctions imposed, the severity of the Delicts, and other relevant circumstances.
-These records will contain personal data and will therefore be subject to the highest level of professional due dilligence. 
-After the prescribed retention period, these records will not be discarded but will be archived in an anonymized form for use by historians and the Judiciary.
-Section 2: Duration of Record Retention
-Records of Delicts will generally be kept for ten years after the fullness of the sanction has been served.
-Records of Crimes will be kept for a period ranging from ten to thirty years after the fullness of the sanction has been served.
-Records of Crimes against humanity and war Crimes will be kept indefinitely.
+
+#### Article 34: Termination of Employment
+1. The Adjudicating Organ may terminate the employment or other relationship of a Perpetrator who is an an Agent with their respective Agency if the Agent's conduct in connection with a Delict:
+    a. demonstrates repeated, flagrant violations of established protocols or basic prudence or a constant alarming lack of basic skill required for the job;
+    b. poses an immediate and significant risk to the interests of Liberland or their Agency, already having caused significant level of damage to them; and
+    c. indicates a low likelihood of behavioral improvement, demonstrated by a stated or implicit unwillingness to make the required changes.
+2. Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct.
+
+### Title 4: Record of Delicts and Information Disclosure
+#### Article 35: Record-Keeping and Data Retention
+##### Section 1: Authority for Record-Keeping
+1. The Ministry of Justice is responsible for maintaining a comprehensive record of all Delicts, including the identification of perpetrators, the sanctions imposed, the severity of the Delicts, and other relevant circumstances.
+2. These records will contain personal data and will therefore be subject to the highest level of professional due dilligence. 
+3. After the prescribed retention period, these records will not be discarded but will be archived in an anonymized form for use by historians and the Judiciary.
+##### Section 2: Duration of Record Retention
+1. Records of Delicts will generally be kept for ten years after the fullness of the sanction has been served.
+2. Records of Crimes will be kept for a period ranging from ten to thirty years after the fullness of the sanction has been served.
+3. Records of Crimes against humanity and war Crimes will be kept indefinitely.
+
 Information Contained in Records
 The record of all Delicts will include the following information about the case:
 Identification of the perpetrator: By at least the name, surname, birth date, Liberland identification numbers, other national identification numbers known to the Adjudicating Organ.
