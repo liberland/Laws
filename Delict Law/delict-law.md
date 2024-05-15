@@ -709,106 +709,156 @@ The Court shall be the disciplinary Adjudicating Organ for cases of the Contept 
 In cases of repeated serious Contempt of Court offenses, especially under aggravating circumstances or resulting in significant consequences, and where further penalties are unlikely to effect a change in behavior, the Court reserves the right to summarily dismiss the offender’s case on the grounds of aggravated Contempt of Court.
 
 # Book 2: Process Law
-Chapter 1: General Provisions
-Title 1: Scope of the Delict Process
-Procedure for Handling Delicts
-Section 1: Overview of the Two-Stage Process
+## Chapter 1: General Provisions
+### Title 1: Scope of the Delict Process
+
+#### Article 58: Procedure for Handling Delicts
+##### Section 1: Overview of the Two-Stage Process
 The process for addressing a Delict under this Law shall be bifurcated into two distinct stages, designed to ensure procedural fairness and efficiency.
-Section 2: First Stage - Administrative Process
+
+##### Section 2: First Stage - Administrative Process
 The initial stage of the Delict Process shall be governed by the rules applicable to the Administrative Process. This stage concludes with the issuance of a Misdemeanor Order, marking the preliminary resolution of the matter.
-Section 3: Second Stage - Judicial Review
-The second stage shall be initiated only if the Misdemeanor Order issued during the first stage is contested.
-This subsequent stage shall proceed before the Court, wherein the General Process shall be applied with modifications as prescribed by the special rules of this Law, thereby constituting the Delict Process proper.
-Initiation of the Delict Process
-The delict proceedings are formally initiated at the First Stage by the Adjudicating Organ. This initiation occurs upon receiving information from a credible source indicating the likely commission of a misdemeanor.
-The credible source's information must suggest with reasonable certainty that a misdemeanor has occurred or is about to occur for the Adjudicating Organ to proceed with the initiation of delict proceedings.
-Title 2: Principles governing the Delict Process
-Presumption of Innocence
-Section 1: Principle of Presumption of Innocence
-In accordance with this Law, every individual accused of committing a Delict within the jurisdiction of Liberland is to be presumed innocent until their guilt has been conclusively established through due legal process.
-The presumption of innocence is a universal principle that shall apply in all stages of legal proceedings and processes conducted within Liberland. Furthermore, this principle is binding upon all private individuals and entities without exception.
-Section 2: Burden of Proof
-The obligation to substantiate the guilt of the accused lies solely with the State. This encompasses the presentation of sufficient and compelling evidence to overcome the presumption of innocence.
-At the commencement of the judicial process, the responsibility for proving guilt rests with the Adjudicating Organ. As the proceedings progress, this responsibility transitions to the Accuser, who must then carry the burden of proof through the remaining stages of the legal process.
-Protection from self-incrimination
+
+##### Section 3: Second Stage - Judicial Review
+1. The second stage shall be initiated only if the Misdemeanor Order issued during the first stage is contested.
+2. This subsequent stage shall proceed before the Court, wherein the General Process shall be applied with modifications as prescribed by the special rules of this Law, thereby constituting the Delict Process proper.
+
+#### Article 59: Initiation of the Delict Process
+1. The delict proceedings are formally initiated at the First Stage by the Adjudicating Organ. This initiation occurs upon receiving information from a credible source indicating the likely commission of a misdemeanor.
+2. The credible source's information must suggest with reasonable certainty that a misdemeanor has occurred or is about to occur for the Adjudicating Organ to proceed with the initiation of delict proceedings.
+### Title 2: Principles governing the Delict Process
+
+#### Article 60: Presumption of Innocence
+#### Section 1: Principle of Presumption of Innocence
+1. In accordance with this Law, every individual accused of committing a Delict within the jurisdiction of Liberland is to be presumed innocent until their guilt has been conclusively established through due legal process.
+2. The presumption of innocence is a universal principle that shall apply in all stages of legal proceedings and processes conducted within Liberland. Furthermore, this principle is binding upon all private individuals and entities without exception.
+
+##### Section 2: Burden of Proof
+1. The obligation to substantiate the guilt of the accused lies solely with the State. This encompasses the presentation of sufficient and compelling evidence to overcome the presumption of innocence.
+2. At the commencement of the judicial process, the responsibility for proving guilt rests with the Adjudicating Organ. As the proceedings progress, this responsibility transitions to the Accuser, who must then carry the burden of proof through the remaining stages of the legal process.
+
+#### Article 61: Protection from self-incrimination
 No individual accused of a crime shall be legally compelled to provide testimony or evidence that would incriminate themselves or members of their immediate family.
-Right to face one’s accuser
-Section 1: No conviction without information
-No individual shall be convicted of a Delict without being duly informed of the charges against them.
-Such notification must include sufficient specificity to allow the accused to prepare an adequate defense and must be made sufficiently early on to give effective time and to prevent extreme costs associated with the defense.
-Section 2: Right to know the other parties
-Every subject accused of a Delict shall have the inherent right to be acquainted with and to confront their accuser. 
-This also encompasses the entitlement to know the identities of any Victims involved, but the Adjudicating Organ and presiding Judge retain the discretion to restrict access to the identities of Victims or accusers, although this restriction may only be applied on grounds of compelling necessity and urgency, aimed at protecting the welfare of the Victims or the integrity of the trial process.
-Right to hearing and effective remedy
-Section 1: Right to a Hearing
+
+#### Article 62: Right to face one’s accuser
+##### Section 1: No conviction without information
+1. No individual shall be convicted of a Delict without being duly informed of the charges against them.
+2. Such notification must include sufficient specificity to allow the accused to prepare an adequate defense and must be made sufficiently early on to give effective time and to prevent extreme costs associated with the defense.
+
+##### Section 2: Right to know the other parties
+1. Every subject accused of a Delict shall have the inherent right to be acquainted with and to confront their accuser. 
+2. This also encompasses the entitlement to know the identities of any Victims involved, but the Adjudicating Organ and presiding Judge retain the discretion to restrict access to the identities of Victims or accusers, although this restriction may only be applied on grounds of compelling necessity and urgency, aimed at protecting the welfare of the Victims or the integrity of the trial process.
+
+#### Article 63: Right to hearing and effective remedy
+##### Section 1: Right to a Hearing
 Every subject accused of a Delict shall be granted the right to a hearing, during which the adjudicating organ is obligated to genuinely listen and consider the arguments presented by the accused.
-Section 2: Right to Effective Remedy
-Accused individuals are entitled to raise objections regarding the conduct of law enforcement authorities and the courts.
-All such objections shall be considered seriously and in good faith, following the procedures established by applicable law.
-Swiftness of Delict Process
-Throughout all stages of the Delict Process, an individual accused of a Delict shall be afforded the right to expedited judicial proceedings. 
-This right ensures for the accused specifically a faster resolution than the standard timelines prescribed by the principle of Urgency in the General Process.
-The accused shall at all times have the power to claim provable instances of undue delays in violation of this special right and also the general principle of Urgency.
-Proportion of means
-Measures taken against accused subjects in the course of the Delict Process shall not impose an unreasonable burden on them beyond what is necessary for the fulfillment of the process's objectives. 
-These objectives include determining the guilt or innocence of the accused and ensuring the protection and safety of the victim, along with facilitating restitution where applicable.
-Transparency
-All the proceedings for a Delict in whichever phase shall be conducted orderly and with regularity and also in such a way that no reasonable doubt can be cast on this by other parties.
-Any individual accused of a Delict shall possess the right to request that their proceedings be conducted publicly. This right is exercisable notwithstanding any prior judicial determinations to restrict the publicity of proceedings.
-The invocation of this right by the accused must be predicated upon well-founded and thoroughly documented justification. Justifiable grounds for such a request include, but are not limited to, a substantiated concern regarding the potential lack of objectivity on the part of the court.
-Upon presentation of such justifications by the accused, it shall be incumbent upon the Adjudicating Organ or the presiding Judge to grant the request for a public trial, provided the reasons are deemed consistent, free of contradictions and material absurdities and seem to be presented in good faith. 
-Dignity of the accused
-Section 1: Participation and Treatment of the Accused
-Notwithstanding the accusatory nature of the proceedings, every individual accused of a Delict shall maintain the right to actively participate in their defense throughout the Delict Process. No aspect of the proceedings shall render the accused as a mere object subject to negotiation of their fate.
-At no stage of the Delict Process shall the accused be subjected to torture or to any form of inhuman or degrading treatment. This provision upholds the fundamental rights of the accused, ensuring dignity and respect irrespective of the charges faced.
-Section 2: Prohibition of Exemplary Punishments
-The imposition of exemplary punishments in Liberland is strictly prohibited. No punishment shall be made more severe than warranted by the specific circumstances of the case, nor shall it be intensified to serve as a deterrent or to instill fear of the law in the general populace.
-Punishments shall be determined solely on the basis of the seriousness of the individual case, ensuring that justice is administered fairly and without prejudice to the principle of proportionality.
-Chapter 2: First Stage of the Delict Process
-Title 1: First Stage Process Order
-Scope of the First Stage
+
+##### Section 2: Right to Effective Remedy
+1. Accused individuals are entitled to raise objections regarding the conduct of law enforcement authorities and the courts.
+2. All such objections shall be considered seriously and in good faith, following the procedures established by applicable law.
+
+#### Article 64: Swiftness of Delict Process
+1. Throughout all stages of the Delict Process, an individual accused of a Delict shall be afforded the right to expedited judicial proceedings. 
+2. This right ensures for the accused specifically a faster resolution than the standard timelines prescribed by the principle of Urgency in the General Process.
+3. The accused shall at all times have the power to claim provable instances of undue delays in violation of this special right and also the general principle of Urgency.
+
+#### Article 65: Proportion of means
+1. Measures taken against accused subjects in the course of the Delict Process shall not impose an unreasonable burden on them beyond what is necessary for the fulfillment of the process's objectives. 
+2. These objectives include determining the guilt or innocence of the accused and ensuring the protection and safety of the victim, along with facilitating restitution where applicable.
+
+#### Article 66: Transparency
+1. All the proceedings for a Delict in whichever phase shall be conducted orderly and with regularity and also in such a way that no reasonable doubt can be cast on this by other parties.
+2. Any individual accused of a Delict shall possess the right to request that their proceedings be conducted publicly. This right is exercisable notwithstanding any prior judicial determinations to restrict the publicity of proceedings.
+3. The invocation of this right by the accused must be predicated upon well-founded and thoroughly documented justification. Justifiable grounds for such a request include, but are not limited to, a substantiated concern regarding the potential lack of objectivity on the part of the court.
+4. Upon presentation of such justifications by the accused, it shall be incumbent upon the Adjudicating Organ or the presiding Judge to grant the request for a public trial, provided the reasons are deemed consistent, free of contradictions and material absurdities and seem to be presented in good faith. 
+
+#### Article 67: Dignity of the accused
+##### Section 1: Participation and Treatment of the Accused
+1. Notwithstanding the accusatory nature of the proceedings, every individual accused of a Delict shall maintain the right to actively participate in their defense throughout the Delict Process. No aspect of the proceedings shall render the accused as a mere object subject to negotiation of their fate.
+2. At no stage of the Delict Process shall the accused be subjected to torture or to any form of inhuman or degrading treatment. This provision upholds the fundamental rights of the accused, ensuring dignity and respect irrespective of the charges faced.
+
+##### Section 2: Prohibition of Exemplary Punishments
+1. The imposition of exemplary punishments in Liberland is strictly prohibited. No punishment shall be made more severe than warranted by the specific circumstances of the case, nor shall it be intensified to serve as a deterrent or to instill fear of the law in the general populace.
+2. Punishments shall be determined solely on the basis of the seriousness of the individual case, ensuring that justice is administered fairly and without prejudice to the principle of proportionality.
+
+## Chapter 2: First Stage of the Delict Process
+
+### Title 1: First Stage Process Order
+
+#### Article 68: Scope of the First Stage
 The first stage of delict proceedings shall encompass the following key actions:
-Conducting a thorough investigation into the facts of the case, both factual and legal.
-Applying the relevant laws to these facts to determine whether the actions or omissions of the perpetrator may constitute a delict.
-Establishing a high likelihood that a delict has occurred, ensuring that the chances of a successful outcome—either through the perpetrator's acceptance of a Misdemeanor Order or through victory in the Second Stage—are reasonable in relation to the anticipated costs.
-In cases of uncertainty regarding the advisability of proceeding, the following steps will be taken:
-Consultation with the Ministry of Finance to ascertain whether pursuing the prosecution is economically viable.
-Notification to the perpetrator, providing them with sufficient details about the alleged misdemeanor to enable a response.
-The procedure following the communication to the perpetrator shall be as follows:
-Awaiting the perpetrator's response within a prescribed timeframe.
-If the response is silence, proceeding to await payment of the fine or, failing that, enforcing the Loss of Merit sanction.
-If the response is an objection, forwarding the Case File to the appropriate court for formal delict proceedings and notifying the perpetrator of this action.
-Decision in the First Stage
-Section 1: Insufficient grounds for prosecution
+
+    a. Conducting a thorough investigation into the facts of the case, both factual and legal.
+
+    b. Applying the relevant laws to these facts to determine whether the actions or omissions of the perpetrator may constitute a delict.
+
+    c. Establishing a high likelihood that a delict has occurred, ensuring that the chances of a successful outcome—either through the perpetrator's acceptance of a Misdemeanor Order or through victory in the Second Stage—are reasonable in relation to the anticipated costs.
+
+    d. In cases of uncertainty regarding the advisability of proceeding, the following steps will be taken:
+
+    e. Consultation with the Ministry of Finance to ascertain whether pursuing the prosecution is economically viable.
+
+    f. Notification to the perpetrator, providing them with sufficient details about the alleged misdemeanor to enable a response.
+
+    g. The procedure following the communication to the perpetrator shall be as follows:
+       
+       i. Awaiting the perpetrator's response within a prescribed timeframe.
+       
+       ii. If the response is silence, proceeding to await payment of the fine or, failing that, enforcing the Loss of Merit sanction.
+
+       iii. If the response is an objection, forwarding the Case File to the appropriate court for formal delict proceedings and notifying the perpetrator of this action.
+
+#### Article 69: Decision in the First Stage
+##### Section 1: Insufficient grounds for prosecution
 During the initial phase of investigation into a Delict, should the Administrative Organ find the evidence against the accused to be insufficient to substantiate a charge, it is empowered to:
-Terminate the investigation when it is evident that the criteria necessary for proceeding with prosecution are not fulfilled.
-Cease further prosecution actions if definitive evidence establishes the innocence of the accused, thereby precluding any subsequent prosecutorial actions for the same incident involving the same individual. Following such determination, the case shall be formally closed, barring any organ from initiating prosecution against the accused for the related activities.
-Section 2: Delict Order
+    
+    a. Terminate the investigation when it is evident that the criteria necessary for proceeding with prosecution are not fulfilled.
+   
+    b. Cease further prosecution actions if definitive evidence establishes the innocence of the accused, thereby precluding any subsequent prosecutorial actions for the same incident involving the same individual. Following such determination, the case shall be formally closed, barring any organ from initiating prosecution against the accused for the related activities.
+
+##### Section 2: Delict Order
 In instances where the decision is made to continue with the prosecution, the Administrative Organ shall issue an Order that encompasses:
-The identification of the Perpetrator,
-A precise identification of the Delict, including specific references to applicable sections or articles of the Law for clarity.
-A compilation of the names of the accused individual(s), noting any co-accused parties.
-A detailed account of the nature of the perpetration, elucidating all pertinent factors that influence the accused's liability, including but not limited to, actions or inactions, and the characterization of the act as continuous, recurrent, or executed by multiple parties.
-A delineation of the actions deemed to constitute the Delict.
-An explanation underpinning the assignment of responsibility for the Delict to the accused, tailored to the unique aspects of the case.
-A reference to the evidence considered at each decisive juncture, detailing the foundations for both the decision made and its subsequent justification.
-The sanction type and the exact enumerated value of this sanction.
-The administrative costs for the process which the Perpetrator needs to cover that Liberland incurred due to the prosecution, including the setup of the costs and the evidence for how they were incurred, notably invoices and payment receipts, with the reasoning as to why the given costs were necessary.
-The Delict Order shall include information that it can be Objected within 8 workdays after reception; where it is objected, the order is thereby annulled and the case moves to the Second Stage. 
-Where it is not objected for the 8 workdays, the Delict Order gains legal force and becomes binding upon the Perpetrator.
-Section 3: Simplified Payment Order
-A Simplified Payment Order may be issued by the Adjudicating Organ in cases where:
-The delict committed has minimal impact, warranting sanctions such as Admonition or Loss of Merit not exceeding 500 LLM; or
-There is an agreement between the Adjudicating Organ and the perpetrator on the facts of the case, and the perpetrator acknowledges guilt, accepts the sanctions, and agrees to the calculation of process costs.
-The content of the Simplified Payment Order shall include only:
-Identification of the perpetrator;
-Simple description of the facts of the case and why the Perpetrator’s actions constitute a Delict;
-Specification of the Delict, including the relevant article, section, and alinea of this Law upon which the Delict and the sanction is based;
-Type and amount of the sanction, where applicable;
-Administrative costs stated as a total amount, without itemization.
-When a Simplified Payment Order is issued with the full consent of the perpetrator, it precludes the right to issue an objection against the Order. The Payment Order gains legal force on the spot and the time to pay up the Loss of Merit sanction, where that is given, and the administrative costs, shall be set to 15 working days.
-In cases where the Simplified Payment Order is not fully agreed upon by the perpetrator, the provisions for issuing an objection shall be identical to those applicable to a Delict Order.
-Criteria for Adjudicating Delicts
+
+    a. The identification of the Perpetrator,
+    
+    b. A precise identification of the Delict, including specific references to applicable sections or articles of the Law for clarity.
+    
+    c. A compilation of the names of the accused individual(s), noting any co-accused parties.
+    
+    d. A detailed account of the nature of the perpetration, elucidating all pertinent factors that influence the accused's liability, including but not limited to, actions or inactions, and the characterization of the act as continuous, recurrent, or executed by multiple parties.
+    
+    e. A delineation of the actions deemed to constitute the Delict.
+    
+    f. An explanation underpinning the assignment of responsibility for the Delict to the accused, tailored to the unique aspects of the case.
+    
+    g. A reference to the evidence considered at each decisive juncture, detailing the foundations for both the decision made and its subsequent justification.
+    
+    h. The sanction type and the exact enumerated value of this sanction.
+2. The administrative costs for the process which the Perpetrator needs to cover that Liberland incurred due to the prosecution, including the setup of the costs and the evidence for how they were incurred, notably invoices and payment receipts, with the reasoning as to why the given costs were necessary. The Delict Order shall include information that it can be Objected within 8 workdays after reception; where it is objected, the order is thereby annulled and the case moves to the Second Stage. 
+3. Where it is not objected for the 8 workdays, the Delict Order gains legal force and becomes binding upon the Perpetrator.
+
+##### Section 3: Simplified Payment Order
+1. A Simplified Payment Order may be issued by the Adjudicating Organ in cases where:
+
+    a. The delict committed has minimal impact, warranting sanctions such as Admonition or Loss of Merit not exceeding 500 LLM; or
+
+    b. There is an agreement between the Adjudicating Organ and the perpetrator on the facts of the case, and the perpetrator acknowledges guilt, accepts the sanctions, and agrees to the calculation of process costs.
+
+2. The content of the Simplified Payment Order shall include only:
+
+    a. Identification of the perpetrator;
+
+    b. Simple description of the facts of the case and why the Perpetrator’s actions constitute a Delict;
+
+    c. Specification of the Delict, including the relevant article, section, and alinea of this Law upon which the Delict and the sanction is based;
+
+    d. Type and amount of the sanction, where applicable;
+
+    e. Administrative costs stated as a total amount, without itemization.
+2. When a Simplified Payment Order is issued with the full consent of the perpetrator, it precludes the right to issue an objection against the Order. The Payment Order gains legal force on the spot and the time to pay up the Loss of Merit sanction, where that is given, and the administrative costs, shall be set to 15 working days.
+3. In cases where the Simplified Payment Order is not fully agreed upon by the perpetrator, the provisions for issuing an objection shall be identical to those applicable to a Delict Order.
+
+#### Article 70: Criteria for Adjudicating Delicts
 Section 1: Evidence Collection and Verification
 All decisions in Delict cases shall be based on evidence that is concrete and factually grounded. Acceptable forms of evidence include, but are not limited to, photographs, physical objects, written statements, and official documents.
 Direct observations by Administrative Organs or witnesses, as well as confessions from suspects, are deemed valid forms of evidence. However, these must be:
