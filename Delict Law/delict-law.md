@@ -92,17 +92,26 @@ Whereas acknowledging the inherent stress and authority involved in being the Ac
 
 #### Article 1: Definition of Delict
 A Delict is defined as a human action that:
+
    a. breaches the Non-Aggression Principle, 
+   
    b. causes an identifiable harm to another person or the interests of the State;
+   
    c. violates a legal provision or a provision in the Constitution; and
+   
    d. this codex or a special codex prescribes a punishment for the violation of the given legal provision.
 
 #### Article 2: Liberland jurisdiction over Delicts
-1. Liberland shall seek out and punish whosoever seems likely to have commited a Delict, henceforth ´Perpetrator´, where 
+1. Liberland shall seek out and punish whosoever seems likely to have commited a Delict, henceforth ´Perpetrator´, where
+   
     a. The harm or the predominant aspect of the act occurs within the jurisdiction of Liberland;
+   
     b. The Delict directly involves as the suspected Perpetrator an individual or entity subject to Liberland's jurisdiction;
-    c. Other cases of Delict, most notably where one of the victims is an individual or entity subject to Liberland´s jurisdiction or the State; where 
+   
+    c. Other cases of Delict, most notably where one of the victims is an individual or entity subject to Liberland´s jurisdiction or the State; where
+   
        i. The standing public international law allows for the attribution of Delict jurisdiction to Liberland; and
+   
        ii. The taking up of the jurisdiction is in the interest of Liberland.
 
 #### Article 3: Perpetrator and Culpability
@@ -127,8 +136,11 @@ An individual shall be recognized as a Perpetrator of a Delict if their actions 
 #### Article 5: Assisting the Perpetrator
 ##### Section 1: Planning, Instigation, Enablement
 The term "Perpetrator" shall also encompass any individual who, with intent, engages in any of the following acts:
+
    a. Planning or directing the commission of a Delict, herein referred to as the "Organizer";
+   
    b. Instigating another individual to decide to commit a Delict, herein referred to as the "Inciter";
+   
    c. Enabling or facilitating the commission of a Delict by another individual, herein referred to as the "Accomplice";
       provided that the Delict is either completed or its attempt is deemed punishable under this Law.
 
@@ -176,8 +188,11 @@ A Collective Delict consists of multiple instances of the same Delict committed 
 1. An act, which under normal circumstances would constitute a delict and thus be subject to punishment, shall not be punishable if it is committed with the intention of preventing an immediate and direct threat to any legally protected interest.
 2. This allows for either the complete exemption from punishment or the reduction thereof, potentially to less than the minimum penalty prescribed by law, based on the specific circumstances of the case.
 3. The exemption is contingent upon the absence of any alternative means to avert the threat. It does not apply in any of the following situations:
+   
     a. If the threat could have been mitigated through other measures that were reasonably available to the person; and
+   
     b. If the harm caused by the act in question is clearly significantly greater than the harm or danger that was sought to be prevented; or
+   
     c. If the person facing the danger had a legal or moral obligation to endure it, without taking the action that would constitute a delict.
 
 #### Article 11: Legitimate self-defense
@@ -194,8 +209,11 @@ A Collective Delict consists of multiple instances of the same Delict committed 
 #### Article 13: Acceptable risk
 1. An act that would otherwise be punishable as a Delict is exempt from punishment if it is conducted as part of a socially beneficial activity within the scope of one's employment, profession, or role, based on the information available at the time, even if it endangers or violates a legally protected interest, provided no alternative means to achieve the beneficial outcome are available.
 2. The exemption does not apply if:
+   
    a. The activity endangers human life or health without legal consent,
+
    b. The intended outcome clearly does not justify the level of risk involved, or
+   
    c. The conduct clearly contradicts other legal regulations, public interest, ethical principles, or moral standards.
 
 #### Article 14: Lawful use of weapons
@@ -205,14 +223,22 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 #### Article 15: Criteria for Legal Entity as Perpetrator
 ##### Section 1: Attributing culpability to a Legal Entity
 1. A Legal Entity shall be deemed a perpetrator of a delict if the delict is committed through the actions of an individual, provided that:
+   
     a. Such actions are attributable to the Legal Entity;
+   
     b. The individual was acting on behalf of the Legal Entity; and
+   
     c. The act constitutes a delict under this Law.
-2. The attribution of actions to the Legal Entity applies in circumstances where the individual is:
+   
+3. The attribution of actions to the Legal Entity applies in circumstances where the individual is:
+   
     a. Acting in representation of the Legal Entity;
+   
     b. Engaged in activities directly associated with the operations of the Legal Entity; or
+   
     c. Acting for the benefit or advantage of the Legal Entity.
-3. Imposing liability on a Legal Entity does not automatically exempt the individual perpetrator from responsibility. The individual shall still be held accountable unless it is established that they were not a co-perpetrator or are otherwise not responsible for the delict.
+   
+5. Imposing liability on a Legal Entity does not automatically exempt the individual perpetrator from responsibility. The individual shall still be held accountable unless it is established that they were not a co-perpetrator or are otherwise not responsible for the delict.
 
 ##### Section 2: Degrees of culpability between the Legal Entity and the individual
 1. When an individual, whose actions make a Legal Entity liable, commits a delict, that Legal Entity shall bear a proportional degree of liability. This liability ranges from full to Planning, Instigation or Enablement, depending on the Legal Entity's level of involvement in the delict. 
@@ -221,22 +247,33 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 
 #### Article 16: Determination of Attributable Actions
 1. For the purpose of assessing the liability of a Legal Entity for delicts, actions committed by the following individuals shall be considered attributable to the Legal Entity:
+
     a. Members of statutory bodies or equivalent organizational structures;
+   
     b. Members of any other bodies forming part of the organizational structure of the Legal Entity;
+   
     c. Employees or persons in similar positions when performing tasks related to their employment;
+   
     d. Individuals executing specific tasks on behalf of the Legal Entity;
+   
     e. Individuals engaged by the Legal Entity for participation in its operations;
+   
     f. Individuals acting in the interests of the Legal Entity, particularly when the entity derives a benefit from their actions.
-2. This attribution applies regardless of the formal relationship between the individual and the Legal Entity, focusing instead on the nature of the action and its relevance to the entity's operations or interests.
+   
+3. This attribution applies regardless of the formal relationship between the individual and the Legal Entity, focusing instead on the nature of the action and its relevance to the entity's operations or interests.
 
 #### Article 17: Special Characteristics for Legal Entity Perpetrators
 If the law stipulates special traits, capabilities, or statuses for a perpetrator who is a Legal Entity, such attributes need not be present in the individual whose actions are attributable to the Legal Entity.
 
 #### Article 18: Special Conditions for Legal Entity liability
 1. Liability of the Legal Entity remains intact even if:
+   
    a. The individual's actions occurred prior to the Legal Entity's establishment,
+   
    b. The Legal Entity was declared invalid by a court,
+   
    c. The legal action intended to establish authority is invalid or ineffective,
+   
    d. The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
 
 #### Article 19: Conditions for Legal Entity exemption
@@ -280,23 +317,34 @@ In instances where multiple Delicts are committed through a single act or a set 
 
 #### Article 24: Primary Sanctions
 The organ adjudicating a Delict, henceforth “Adjudicating Organ”, may impose one of the following primary sanctions on an individual found guilty:
+
     a. Admonition, or
+    
     b. Loss of Merit.
 
 #### Article 25: Supplementary Sanctions
 Alongside the primary sanctions, the following supplementary sanctions may be imposed where legally and materially justified:
+
     a. Restitution,
+    
     b. Asset Forfeiture,
+    
     c. Inclusion in a Public Blacklist.
+    
     d. Activity Prohibition,
+    
     e. Temporary or Permanent Reassignment, or
+    
     f. Termination of Employment.
 
 #### Article 26: Admonition
 1. In instances where the offense committed is of a minor nature and the offender exhibits signs of remorse or a low likelihood of reoffending, the Adjudicating Organ may opt to issue an Admonition, which may be conveyed either orally or in writing.
 2. Prior to issuing an Admonition, the Adjudicating Organ is required to:
+   
    a. Clearly explain to the offender the nature of the offense and the possible consequences thereof;
+   
    b. Obtain an acknowledgment from the offender of their misconduct; and
+   
    c. Secure a commitment from the offender to refrain from repeating the offense. This commitment should be deemed by the Adjudicating Organ as likely to be effective in preventing not only the recurrence of the same offense but also the perpetration of other delicts.
 
 #### Article 27: Loss of Merit
@@ -325,18 +373,24 @@ Alongside the primary sanctions, the following supplementary sanctions may be im
 #### Article 29: Activity Prohibition
 1. The Adjudicating Organ may prohibit the offender from engaging in specific activities directly related to the offense if it is evident that the offender lacks the skill or exhibits recklessness in said activities.
 2. The sanction of Activity Prohibition is applicable under the following conditions:
+   
     a. The offense results in a Loss of Merit penalty exceeding 500 LLM, and the actual Loss of Merit imposed is near or above this threshold; or
-    b. In instances of repeated offences of the same or similar Delicts performed in conjunction with the given activity, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 5,000 LLM, 
+   
+    b. In instances of repeated offences of the same or similar Delicts performed in conjunction with the given activity, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 5,000 LLM,
 and the overall impact of the offence on public safety or welfare is significant.
-3. For first-time offenders of non-criminal Delicts, the prohibition shall not exceed six months, and for repeat offenders, up to 6 months.
-4. For all the other offenders, the prohibition shall not exceed 24 months unless the Delict is a Crime.
+
+4. For first-time offenders of non-criminal Delicts, the prohibition shall not exceed six months, and for repeat offenders, up to 6 months.
+5. For all the other offenders, the prohibition shall not exceed 24 months unless the Delict is a Crime.
 
 #### Article 30: Asset Forfeiture
 ##### Section 1: Grounds for Asset Forfeiture
 1. Asset Forfeiture shall be considered when a delict involves the use of any object or animal, and the continued possession of such object or animal by the perpetrator presents a public risk.
 2. Asset Forfeiture is applicable under the following conditions:
+   
     a. The offense results in a Loss of Merit penalty exceeding 500 Liberland Merit (LLM), with the actual Loss of Merit imposed being near or above this threshold; or
+   
     b. In cases of repeated offenses of the same or similar delicts involving the use of the asset in question, where the cumulative maximum Loss of Merit sanction incurred reaches or is close to 1,000 LLM, and the offense significantly impacts public safety or welfare.
+
 ##### Section 2: Conditional and Full Forfeitur
 1. For less serious delicts or for first-time perpetrators, a "conditional" forfeiture may be issued. 
 2. This places the offender on a probationary period of up to 12 months, during which full forfeiture will be enforced for any repeated offense involving the object or animal, regardless of the offense's severity.
@@ -347,12 +401,17 @@ Forfeiture may apply to animals in instances of evident mistreatment by the perp
 #### Article 31: Processual Forfeiture
 1. In instances where a Delict bears a direct relation to any legal process, be it judicial, administrative, or political (such as voting), and results in significant disturbance or delay of said process, accompanied by incurred costs either directly or indirectly attributable to the Delict, the Adjudicating Organ is vested with the authority to compel the perpetrator to reimburse all costs arising directly and indirectly from their delictuous actions, pertaining solely to the affected process.
 2. Should the disruption be deemed extreme or recurrent, to the extent that it constitutes a flagrant disregard for the institution of Justice or public order, in particular where the action or some of the actions fulfil the definition of a Crime, the Adjudicating Organ possesses the discretion to:
+   
     a. Terminate the perpetrator's participation in the ongoing proceedings; and
+   
     b. Forfeit their case outright.
+   
 #### Article 32: Public Blacklist Inclusion
 ##### Section 1: Criteria for Inclusion
 The Ministry of Justice shall maintain a Public Blacklist where individuals or entities will be listed under the following conditions:
+
     a. Conviction of a misdemeanor that results in a penalty of 5,000 Liberland Merit (LLM) or more;
+    
     b. A negative LLM balance resulting from the accumulation of penalties.
 
 ##### Section 2: Duration of Listing
@@ -376,10 +435,14 @@ Permanent Reassignment of an Agent to a different Agency can only proceed with t
 
 #### Article 34: Termination of Employment
 1. The Adjudicating Organ may terminate the employment or other relationship of a Perpetrator who is an an Agent with their respective Agency if the Agent's conduct in connection with a Delict:
+   
     a. demonstrates repeated, flagrant violations of established protocols or basic prudence or a constant alarming lack of basic skill required for the job;
+   
     b. poses an immediate and significant risk to the interests of Liberland or their Agency, already having caused significant level of damage to them; and
+   
     c. indicates a low likelihood of behavioral improvement, demonstrated by a stated or implicit unwillingness to make the required changes.
-2. Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct.
+   
+3. Termination of employment shall only be invoked when it is unequivocally evident that no lesser disciplinary measure will suffice to protect the assets or interests at risk due to the Agent's conduct.
 
 ### Title 4: Record of Delicts and Information Disclosure
 #### Article 35: Record-Keeping and Data Retention
@@ -392,120 +455,152 @@ Permanent Reassignment of an Agent to a different Agency can only proceed with t
 2. Records of Crimes will be kept for a period ranging from ten to thirty years after the fullness of the sanction has been served.
 3. Records of Crimes against humanity and war Crimes will be kept indefinitely.
 
-Information Contained in Records
-The record of all Delicts will include the following information about the case:
-Identification of the perpetrator: By at least the name, surname, birth date, Liberland identification numbers, other national identification numbers known to the Adjudicating Organ.
-Legal Classification: Type of offence and form of culpability, including information of applicable principles of liability for Delicts and, where present, exemptions from liability for Delicts;
-Penalty: Type and extent of the penalty, including the punishment where the offence was a Crime or the primary sanction or protective measure if imposed, or information on conditional suspension of penalty;
-Enforcement Data: Details on the execution of any activity ban or secondary sanction, if imposed, and data of any enforcement of the primary or secondary sanction;
-Adjudicating Organ: Identification and location of the first-level and appellate administrative bodies that processed the offense
-Decision Details: Case number, issue date, and effective date of the decision at both first-level and appellate proceedings
-Appeal Proceedings: Identification and location of the authority that made the final decision in review proceedings, if these took place.
-Supreme Court Case: Information regarding the proceedings of the case at the Supreme Court, should it have taken place.
-The record of all Delicts will also include copies of all the relevant documents from the case file that had lead to the making of the original decisions.
-Confidentiality and Exceptions
-Section 1: General Confidentiality
-Information in the record of Delicts will generally be confidential and will only be shared between the perpetrator and the Government, unless the perpetrator provides prior, informed consent for its disclosure.
-Information concerning other individuals involved in the record, such as witnesses, will also be subject to the same confidentiality provisions. If consent is not provided, the names and other identifying information will be redacted before the information is released.
-Section 2: Legal Exceptions for Disclosure
-Exceptions to these confidentiality provisions shall be included in this Law and in special laws.
-In cases where full disclosure may not be justified, but partial or anonymized information could mitigate some level of risk, the Ministry of Justice will release portions of the relevant information as dictated by the immediate needs of the situation.
-Legal Licenses for Information Disclosure
-Section 1: Rights of the Data Subject
-Data Subjects are entitled to request from the Ministry of Justice access to full or partial records concerning any case in which they were involved, as maintained in the registry of Delicts.
-Data Subjects may also request copies of specific documents relevant to their case, whether in part or in full.
-Section 2: Criteria for Urgent Disclosure
-In circumstances deemed urgent, where disclosing specific information could likely prevent significant harm to the life, liberty, or property of individuals, the Ministry of Justice holds the responsibility to evaluate the necessity and urgency of the disclosure request.
-Should the Ministry of Justice ascertain the request as both valid and urgent, and concludes that withholding information would contribute to the risk of significant danger or harm, it will proceed to disclose the pertinent information to the requesting agent or individual, ensuring that privacy concerns are adequately addressed.
-Section 3: Facilitation of International Cooperation
-Upon receiving a formal request from a foreign state's organ or an international organization for information disclosure, and if such information is deemed likely to aid in the identification or capture of a perpetrator of a crime equivalent to a Crime in Liberland, the Ministry of Justice commits to disclosing the necessary information.
-The disclosure will be limited to what is essential to achieve the purpose of the request, aligning with the principles of international cooperation and mutual assistance.
-System for Disclosure
+#### Article 36: Information Contained in Records
+1. The record of all Delicts will include the following information about the case:
+    a. Identification of the perpetrator: By at least the name, surname, birth date, Liberland identification numbers, other national identification numbers known to the Adjudicating Organ.
+    b. Legal Classification: Type of offence and form of culpability, including information of applicable principles of liability for Delicts and, where present, exemptions from liability for Delicts;
+    c. Penalty: Type and extent of the penalty, including the punishment where the offence was a Crime or the primary sanction or protective measure if imposed, or information on conditional suspension of penalty;
+    d. Enforcement Data: Details on the execution of any activity ban or secondary sanction, if imposed, and data of any enforcement of the primary or secondary sanction;
+    e. Adjudicating Organ: Identification and location of the first-level and appellate administrative bodies that processed the offense
+    f. Decision Details: Case number, issue date, and effective date of the decision at both first-level and appellate proceedings
+    g. Appeal Proceedings: Identification and location of the authority that made the final decision in review proceedings, if these took place.
+    h. Supreme Court Case: Information regarding the proceedings of the case at the Supreme Court, should it have taken place.
+2. The record of all Delicts will also include copies of all the relevant documents from the case file that had lead to the making of the original decisions.
+
+#### Article 37: Confidentiality and Exceptions
+##### Section 1: General Confidentiality
+1. Information in the record of Delicts will generally be confidential and will only be shared between the perpetrator and the Government, unless the perpetrator provides prior, informed consent for its disclosure.
+2. Information concerning other individuals involved in the record, such as witnesses, will also be subject to the same confidentiality provisions. If consent is not provided, the names and other identifying information will be redacted before the information is released.
+##### Section 2: Legal Exceptions for Disclosure
+1. Exceptions to these confidentiality provisions shall be included in this Law and in special laws.
+2. In cases where full disclosure may not be justified, but partial or anonymized information could mitigate some level of risk, the Ministry of Justice will release portions of the relevant information as dictated by the immediate needs of the situation.
+
+#### Article 38: Legal Licenses for Information Disclosure
+##### Section 1: Rights of the Data Subject
+1. Data Subjects are entitled to request from the Ministry of Justice access to full or partial records concerning any case in which they were involved, as maintained in the registry of Delicts.
+2. Data Subjects may also request copies of specific documents relevant to their case, whether in part or in full.
+##### Section 2: Criteria for Urgent Disclosure
+1. In circumstances deemed urgent, where disclosing specific information could likely prevent significant harm to the life, liberty, or property of individuals, the Ministry of Justice holds the responsibility to evaluate the necessity and urgency of the disclosure request.
+2. Should the Ministry of Justice ascertain the request as both valid and urgent, and concludes that withholding information would contribute to the risk of significant danger or harm, it will proceed to disclose the pertinent information to the requesting agent or individual, ensuring that privacy concerns are adequately addressed.
+##### Section 3: Facilitation of International Cooperation
+1. Upon receiving a formal request from a foreign state's organ or an international organization for information disclosure, and if such information is deemed likely to aid in the identification or capture of a perpetrator of a crime equivalent to a Crime in Liberland, the Ministry of Justice commits to disclosing the necessary information.
+2. The disclosure will be limited to what is essential to achieve the purpose of the request, aligning with the principles of international cooperation and mutual assistance.
+#### Article 39: System for Disclosure
 The Ministry of Justice is responsible for establishing and maintaining an online system for the disclosure of data. This system will include a generator for official, signed disclosure documentation.
-Protection of Data Subjects' Rights
-Section 1: Notification Obligations
-Prior to the disclosure of any information pertaining to data subjects, the Ministry of Justice shall notify the affected individuals regarding the nature and circumstances of the intended release. Where feasible, this notification shall be provided before any information is disclosed.
+
+#### Article 40: Protection of Data Subjects' Rights
+
+##### Section 1: Notification Obligations
+1. Prior to the disclosure of any information pertaining to data subjects, the Ministry of Justice shall notify the affected individuals regarding the nature and circumstances of the intended release. Where feasible, this notification shall be provided before any information is disclosed.
 Upon notification, data subjects shall be granted a period of eight days to present objections against the proposed release of their information.
-Following this period, should no objection be raised, or the objections are deemed invalid, the disclosure will proceed in the form of an Administrative Order.
-Section 2: Remedies for Unjustified Disclosure
-In instances where a release of information is subsequently determined to be unjustified, the Ministry of Justice shall bear the responsibility for compensating any individuals unlawfully disadvantaged by such release.
-Compensation shall cover damages incurred as a direct result of the unjustified information disclosure.
-Chapter 3: Misdemeanors
-Title 1: Misdemeanors against Liberland
-Treason
-Any individual or an entity who intentionally betrays the fundamental interests of Liberland, either through a single grave act or multiple actions, and consequently inflicts damage on the Government Treasury exceeding 50,000 Liberland Dollars (LLD) or causes a major international incident, shall be guilty of Treason and incur a penalty of Loss of Merit.
-The magnitude of the penalty shall be contingent upon the level of seriousness of the betrayal or the extent of the damage caused, with fines ranging from 5,000 to 1 000,000 Liberland Merits (LLM).
-Terrorist Attack
-Section 1: Liability for a Terrorist Attack
-Individuals found guilty of wilfully and for political motivations assaulting state personnel or damaging state assets will incur a penalty of Loss of Merit. The penalty will be determined based on the severity of the offense, ranging from 250 to 50,000 Liberland Merits (LLM).
-In cases involving serious, permanent injuries or death to individuals, or the destruction of irreplaceable state resources, including the state's reputation, the Loss of Merit penalty may increase up to 1,000,000 LLM.
-Section 2: Issuing Sanction
-If the assault results in damage to state assets or resources, or causes injury or death, the offender may be subject to a financial penalty. This penalty shall be equivalent to the replacement cost of the lost assets or resources, plus compensation for the injuries or fatalities incurred.
-The final penalty imposed on the offender shall be the greater value between the Loss of Merit calculated as per Section 1, subsection 2, and the financial liability determined under this section.
-Waste of Resources
-Section 1: Prohibition of Waste
+2. Following this period, should no objection be raised, or the objections are deemed invalid, the disclosure will proceed in the form of an Administrative Order.
+
+##### Section 2: Remedies for Unjustified Disclosure
+1. In instances where a release of information is subsequently determined to be unjustified, the Ministry of Justice shall bear the responsibility for compensating any individuals unlawfully disadvantaged by such release.4
+2. Compensation shall cover damages incurred as a direct result of the unjustified information disclosure.
+
+## Chapter 3: Misdemeanors
+### Title 1: Misdemeanors against Liberland
+#### Article 41: Treason
+1. Any individual or an entity who intentionally betrays the fundamental interests of Liberland, either through a single grave act or multiple actions, and consequently inflicts damage on the Government Treasury exceeding 50,000 Liberland Dollars (LLD) or causes a major international incident, shall be guilty of Treason and incur a penalty of Loss of Merit.
+2. The magnitude of the penalty shall be contingent upon the level of seriousness of the betrayal or the extent of the damage caused, with fines ranging from 5,000 to 1 000,000 Liberland Merits (LLM).
+
+#### Article 42: Terrorist Attack
+
+##### Section 1: Liability for a Terrorist Attack
+1. Individuals found guilty of wilfully and for political motivations assaulting state personnel or damaging state assets will incur a penalty of Loss of Merit. The penalty will be determined based on the severity of the offense, ranging from 250 to 50,000 Liberland Merits (LLM).
+2. In cases involving serious, permanent injuries or death to individuals, or the destruction of irreplaceable state resources, including the state's reputation, the Loss of Merit penalty may increase up to 1,000,000 LLM.
+
+##### Section 2: Issuing Sanction
+1. If the assault results in damage to state assets or resources, or causes injury or death, the offender may be subject to a financial penalty. This penalty shall be equivalent to the replacement cost of the lost assets or resources, plus compensation for the injuries or fatalities incurred.
+2. The final penalty imposed on the offender shall be the greater value between the Loss of Merit calculated as per Section 1, subsection 2, and the financial liability determined under this section.
+  
+#### Article 43: Waste of Resources
+
+##### Section 1: Prohibition of Waste
 It is prohibited for any individual or entity to wilfully or through gross negligence waste resources owned by the State, any State Agency, or resources provided by collaborators.
-Section 2: Penalties for Waste of Resources
-Any individual or entity found in violation of Section 1 shall be subject to a penalty.
-The penalty for wasting resources shall consist of a deduction of Liberland Merits (LLM) ranging from 50 to 5,000 LLM. The specific amount of LLM to be deducted shall be proportional to the purchase price of the wasted resources, determined at the time of the delict's final adjudication.
-In cases of this Misdemeanor, a sanction of Restitution will be mandatorily imposed in addition to the Loss of Merit.
-Title 2: Misdemeanors against the Settlement Effort
-Acting in Detriment of the Settlement Effort
-Any individual who consciously acts, either directly or indirectly, to obstruct or sabotage the settlement efforts in Liberland shall be subject to a penalty of 500 to 10,000 LLM from their account.
-Any individual who recklessly hampers the settlement efforts in Liberland shall be subject to a penalty of 100 to 5,000 LLM from their account.
-Additional LLM may be deducted based on the extent of any international incident that may arise from such actions, with the maximum at an additional 10 000 LLM for the most severe consequences.
-Drug Use or Possession
-Section 1: Penalties for Use or Possession
-Any individual found to be using or in possession of drugs that are deemed restricted or illegal within the jurisdiction of Croatia, or in quantities exceeding those permitted by Croatian law, shall incur a penalty. The penalty shall be a deduction from the individual's Liberland Merit (LLM) account ranging from 500 to 10,000 LLM.
-The determination of the penalty amount shall be based on:
-The quantity of the drug or drugs in possession;
-The severity of the infraction, as it would be classified under Croatian law; and
-The assessed general danger associated with the use or possession of the drug in question.
-Section 2: Additional Penalties for International Incidents
-In cases where drug possession results in an international incident, an additional deduction ranging from 500 to 10,000 LLM may be imposed on the individual's account.
-The imposition of this additional penalty shall be contingent upon the nature of the international incident and its relation to the drug possession charge.
-Disrespecting Law Enforcement
-Section 1: Insulting Law Enforcement Officers
-Any individual who insults a Law Enforcement Officer within the jurisdiction of Liberland shall incur a penalty ranging from 100 to 2,500 Liberland Merit (LLM).
-A penalty ranging from 500 to 5,000 LLM shall be imposed on individuals who insult a foreign, especially a Croatian law enforcement officer under circumstances that may adversely affect diplomatic relations or settlement efforts between Liberland and Croatia.
-Section 2: Assaulting Law Enforcement Officers
-Assaulting a Law Enforcement Officer in Liberland is punishable by a penalty of 2,500 to 50,000 LLM.
-Assaults on foreign, especially a Croatian law enforcement officer, when such actions have the potential to hinder diplomatic relations or settlement efforts, shall incur a severe penalty of 3,500 to 150,000 LLM. Maximal rates of penalty are reserved for assaults causing lasting serious injuries to multiple victims or death.
-Section 3: Determination of Penalty
-The determination of the exact penalty amount within the specified ranges shall be based on the severity of the offense's consequences and its potential to lead to an international incident.
-In cases resulting in an international incident, an additional penalty of up to 100,000 LLM may be imposed.
-The penalties near the high end of this range are reserved only for extremely serious international incidents leading to the widespread international condemnation of Liberland.
-Committing a Felony under foreign law relevant to the settlement effort
-Section 1: Felony Acts under Foreign and Croatian Law
-Individuals found guilty of committing acts deemed felonious both under this jurisdiction and under the laws relevant to Liberland's settlement efforts, notably Croatian law, shall incur a financial penalty ranging from 1,000 to 100,000 Liberland Merit (LLM). This penalty is in addition to any criminal sanctions applicable. 
-Maximal rates of penalty are reserved for the commitment of the most serious scrimes such as murder or terror.
-Section 2: Assessment of Penalties
-The adjudicating authority shall determine the precise penalty amount, taking into account:
-The gravity of the committed felony and it's consequences;
-The likelihood of the act causing an international incident.
-In instances where the felony results in an international incident, an additional penalty of up to 100,000 LLM may be levied.
-The ranges near the maximum within this range shall be applied only where extremely serious incidents are caused that lead to the widespread condemnation of Liberland. 
-Conduct detrimental to Settlement cohesion and harmony
-Section 1: Prohibited Conduct
+
+##### Section 2: Penalties for Waste of Resources
+1. Any individual or entity found in violation of Section 1 shall be subject to a penalty.
+2. The penalty for wasting resources shall consist of a deduction of Liberland Merits (LLM) ranging from 50 to 5,000 LLM. The specific amount of LLM to be deducted shall be proportional to the purchase price of the wasted resources, determined at the time of the delict's final adjudication.
+3. In cases of this Misdemeanor, a sanction of Restitution will be mandatorily imposed in addition to the Loss of Merit.
+
+### Title 2: Misdemeanors against the Settlement Effort
+#### Article 44: Acting in Detriment of the Settlement Effort
+1. Any individual who consciously acts, either directly or indirectly, to obstruct or sabotage the settlement efforts in Liberland shall be subject to a penalty of 500 to 10,000 LLM from their account.
+2. Any individual who recklessly hampers the settlement efforts in Liberland shall be subject to a penalty of 100 to 5,000 LLM from their account.
+3. Additional LLM may be deducted based on the extent of any international incident that may arise from such actions, with the maximum at an additional 10 000 LLM for the most severe consequences.
+
+#### Article 45: Drug Use or Possession
+##### Section 1: Penalties for Use or Possession
+1. Any individual found to be using or in possession of drugs that are deemed restricted or illegal within the jurisdiction of Croatia, or in quantities exceeding those permitted by Croatian law, shall incur a penalty. The penalty shall be a deduction from the individual's Liberland Merit (LLM) account ranging from 500 to 10,000 LLM.
+2. The determination of the penalty amount shall be based on:
+3. The quantity of the drug or drugs in possession;
+4. The severity of the infraction, as it would be classified under Croatian law; and
+5. The assessed general danger associated with the use or possession of the drug in question.
+
+##### Section 2: Additional Penalties for International Incidents
+1. In cases where drug possession results in an international incident, an additional deduction ranging from 500 to 10,000 LLM may be imposed on the individual's account.
+2. The imposition of this additional penalty shall be contingent upon the nature of the international incident and its relation to the drug possession charge.
+
+#### Article 46: Disrespecting Law Enforcement
+##### Section 1: Insulting Law Enforcement Officers
+1. Any individual who insults a Law Enforcement Officer within the jurisdiction of Liberland shall incur a penalty ranging from 100 to 2,500 Liberland Merit (LLM).
+2. A penalty ranging from 500 to 5,000 LLM shall be imposed on individuals who insult a foreign, especially a Croatian law enforcement officer under circumstances that may adversely affect diplomatic relations or settlement efforts between Liberland and Croatia.
+
+##### Section 2: Assaulting Law Enforcement Officers
+1. Assaulting a Law Enforcement Officer in Liberland is punishable by a penalty of 2,500 to 50,000 LLM.
+2. Assaults on foreign, especially a Croatian law enforcement officer, when such actions have the potential to hinder diplomatic relations or settlement efforts, shall incur a severe penalty of 3,500 to 150,000 LLM. Maximal rates of penalty are reserved for assaults causing lasting serious injuries to multiple victims or death.
+
+##### Section 3: Determination of Penalty
+1. The determination of the exact penalty amount within the specified ranges shall be based on the severity of the offense's consequences and its potential to lead to an international incident.
+2. In cases resulting in an international incident, an additional penalty of up to 100,000 LLM may be imposed.
+3. The penalties near the high end of this range are reserved only for extremely serious international incidents leading to the widespread international condemnation of Liberland.
+
+#### Article 47: Committing a Felony under foreign law relevant to the settlement effort
+
+##### Section 1: Felony Acts under Foreign and Croatian Law
+1. Individuals found guilty of committing acts deemed felonious both under this jurisdiction and under the laws relevant to Liberland's settlement efforts, notably Croatian law, shall incur a financial penalty ranging from 1,000 to 100,000 Liberland Merit (LLM). This penalty is in addition to any criminal sanctions applicable. 
+2. Maximal rates of penalty are reserved for the commitment of the most serious scrimes such as murder or terror.
+
+##### Section 2: Assessment of Penalties
+1. The adjudicating authority shall determine the precise penalty amount, taking into account:
+
+    a. The gravity of the committed felony and it's consequences;
+
+    b. The likelihood of the act causing an international incident.
+
+    c. In instances where the felony results in an international incident, an additional penalty of up to 100,000 LLM may be levied.
+
+    d. The ranges near the maximum within this range shall be applied only where extremely serious incidents are caused that lead to the widespread condemnation of Liberland. 
+
+#### Article 48: Conduct detrimental to Settlement cohesion and harmony
+##### Section 1: Prohibited Conduct
 Any individual who engages in behavior that could be reasonably perceived as severely insulting or harmful to another settler, including but not limited to theft, destruction of property, malicious or thoughtless actions, incitement of conflict, dissemination of rumors, or failure to exhibit cooperation, courtesy, or helpfulness, thereby negatively affecting the settlement's collective effort or causing an international incident, commits a Misdemeanor.
-Section 2: Scope of Penalties
-The penalty for such a Misdemeanor shall be a fine ranging from 50 to 5,000 Liberland Merit (LLM), assessed based on the act's impact on the settlement's overall effort and, critically, on group cohesion.
-In instances where the offense results in an international incident, the penalty shall be doubled.
-Section 3: Specific Acts and Associated Penalties
-Theft: Incidents of theft from other settlers will incur penalties within the mid-range scale, except in particularly egregious cases, which may attract penalties toward the higher end of the scale.
-Malicious or Thoughtless Actions: Acts that significantly undermine or negate the efforts of other settlers will typically attract penalties within the mid-range. Acts resulting from particularly heinous motives or consequences may receive penalties at the higher end of the misdemeanor scale.
-Provocation of Conflict: Behaviors that provoke unnecessary conflict, including spreading rumors, rudeness, or failure to cooperate, will generally result in penalties at the lower end of the scale. However, conflicts of a particularly serious or enduring nature may warrant higher penalties.
-Lack of Courtesy and Helpfulness: A failure to demonstrate courtesy and helpfulness without just cause will attract penalties at the lower end of the established penalty range.
-Regulation on Importation of Dangerous Items
-Section 1: Importation Contrary to Croatian Law
-Any individual found importing a firearm, explosive, or poison into Liberland, which is illegal for them to own, possess, or carry as per Croatian law, shall incur a penalty ranging from 5,000 to 50,000 Liberland Merits (LLM). 
-Maximal rates of penalty are reserved for importing of extremely dangerous substances or multiple firearms or for causing damage and injury as a result of this importing.
-Section 2: Importation Potentially Triggering International Incidents
-An individual importing into Liberland a firearm, explosive, poison, or any object closely resembling these items, which is legal for them to own, possess, or carry under Croatian law, yet poses a risk of triggering an international incident if discovered, will be subjected to a penalty between 50 LLM and 10,000 LLM.
-The exact penalty within this range will be determined based on the potential or actual triggering of an international incident and the incident's severity, with penalties near the maximum within this range reserved to extremely serious international incidents causing widespread condemnation of Liberland.
-Title 3: Misdemeanors Against Public Order
-Dangerous Operation of Vehicles, Machines, and Animals
-Section 1: Imposition of Penalties for Hazardous Operation
+
+##### Section 2: Scope of Penalties
+1. The penalty for such a Misdemeanor shall be a fine ranging from 50 to 5,000 Liberland Merit (LLM), assessed based on the act's impact on the settlement's overall effort and, critically, on group cohesion.
+2. In instances where the offense results in an international incident, the penalty shall be doubled.
+
+##### Section 3: Specific Acts and Associated Penalties
+1. Theft: Incidents of theft from other settlers will incur penalties within the mid-range scale, except in particularly egregious cases, which may attract penalties toward the higher end of the scale.
+2. Malicious or Thoughtless Actions: Acts that significantly undermine or negate the efforts of other settlers will typically attract penalties within the mid-range. Acts resulting from particularly heinous motives or consequences may receive penalties at the higher end of the misdemeanor scale.
+3. Provocation of Conflict: Behaviors that provoke unnecessary conflict, including spreading rumors, rudeness, or failure to cooperate, will generally result in penalties at the lower end of the scale. However, conflicts of a particularly serious or enduring nature may warrant higher penalties.
+4. Lack of Courtesy and Helpfulness: A failure to demonstrate courtesy and helpfulness without just cause will attract penalties at the lower end of the established penalty range.
+
+#### Article 49: Regulation on Importation of Dangerous Items
+
+##### Section 1: Importation Contrary to Croatian Law
+1. Any individual found importing a firearm, explosive, or poison into Liberland, which is illegal for them to own, possess, or carry as per Croatian law, shall incur a penalty ranging from 5,000 to 50,000 Liberland Merits (LLM). 
+2. Maximal rates of penalty are reserved for importing of extremely dangerous substances or multiple firearms or for causing damage and injury as a result of this importing.
+
+##### Section 2: Importation Potentially Triggering International Incidents
+1. An individual importing into Liberland a firearm, explosive, poison, or any object closely resembling these items, which is legal for them to own, possess, or carry under Croatian law, yet poses a risk of triggering an international incident if discovered, will be subjected to a penalty between 50 LLM and 10,000 LLM.
+2. The exact penalty within this range will be determined based on the potential or actual triggering of an international incident and the incident's severity, with penalties near the maximum within this range reserved to extremely serious international incidents causing widespread condemnation of Liberland.
+
+### Title 3: Misdemeanors Against Public Order
+#### Article 50: Dangerous Operation of Vehicles, Machines, and Animals
+##### Section 1: Imposition of Penalties for Hazardous Operation
 Individuals who operate any vehicle, machine, or ride an animal in a manner that is risky or results in endangerment, injury, or damage to themselves or others shall incur a penalty pursuant to this Law.
 Penalties for hazardous operations shall be assessed within a range of 50 to 50,000 Liberland Merit (LLM), with the exact amount determined by:
 The degree of risk posed by the individual's conduct;
