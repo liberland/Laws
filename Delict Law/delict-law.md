@@ -220,65 +220,79 @@ An act is not considered a Delict if weapons are used within the boundaries esta
 3. The process of assigning liability to a Legal Entity does not require the identification of the specific individual who committed the act, provided that a genuine effort is made to identify the individual and that effort fails due to circumstances beyond the control of both the entity and the State. Investigative bodies and courts need not determine the identity of this individual to hold the Legal Entity responsible, particularly when it is clear that the delict was carried out as part of the entity's operations.
 
 #### Article 16: Determination of Attributable Actions
-For the purpose of assessing the liability of a Legal Entity for delicts, actions committed by the following individuals shall be considered attributable to the Legal Entity:
-Members of statutory bodies or equivalent organizational structures;
-Members of any other bodies forming part of the organizational structure of the Legal Entity;
-Employees or persons in similar positions when performing tasks related to their employment;
-Individuals executing specific tasks on behalf of the Legal Entity;
-Individuals engaged by the Legal Entity for participation in its operations;
-Individuals acting in the interests of the Legal Entity, particularly when the entity derives a benefit from their actions.
-This attribution applies regardless of the formal relationship between the individual and the Legal Entity, focusing instead on the nature of the action and its relevance to the entity's operations or interests.
-Special Characteristics for Legal Entity Perpetrators
+1. For the purpose of assessing the liability of a Legal Entity for delicts, actions committed by the following individuals shall be considered attributable to the Legal Entity:
+    a. Members of statutory bodies or equivalent organizational structures;
+    b. Members of any other bodies forming part of the organizational structure of the Legal Entity;
+    c. Employees or persons in similar positions when performing tasks related to their employment;
+    d. Individuals executing specific tasks on behalf of the Legal Entity;
+    e. Individuals engaged by the Legal Entity for participation in its operations;
+    f. Individuals acting in the interests of the Legal Entity, particularly when the entity derives a benefit from their actions.
+2. This attribution applies regardless of the formal relationship between the individual and the Legal Entity, focusing instead on the nature of the action and its relevance to the entity's operations or interests.
+
+#### Article 17: Special Characteristics for Legal Entity Perpetrators
 If the law stipulates special traits, capabilities, or statuses for a perpetrator who is a Legal Entity, such attributes need not be present in the individual whose actions are attributable to the Legal Entity.
-Special Conditions for Legal Entity liability
-Liability of the Legal Entity remains intact even if:
-The individual's actions occurred prior to the Legal Entity's establishment,
-The Legal Entity was declared invalid by a court,
-The legal action intended to establish authority is invalid or ineffective,
-The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
-Conditions for Legal Entity exemption
-A Legal Entity is exempt from liability if it demonstrates that all reasonable preventive measures were taken.
-Exemption is not applicable if the Legal Entity failed to exercise obligatory or necessary oversight over the individual responsible, or if it failed to implement necessary preventive measures.
-Chapter 2: Delicts
-Title 1: Crimes
-Special Law for Crimes
-Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law, a special law to this Law.
-The Criminal Law shall be the definitive codex for all matters regarding the investigation, punishment, enumeration and adjudication of Crimes.
-Title 2: Misdemeanors
-Defining Misdemeanors
-Section 1: Classification and Enumeration of Misdemeanors
+
+#### Article 18: Special Conditions for Legal Entity liability
+1. Liability of the Legal Entity remains intact even if:
+   a. The individual's actions occurred prior to the Legal Entity's establishment,
+   b. The Legal Entity was declared invalid by a court,
+   c. The legal action intended to establish authority is invalid or ineffective,
+   d. The Legal Entity utilized another entity or individual to commit a Delict, provided these entities are not liable for the Delict.
+
+#### Article 19: Conditions for Legal Entity exemption
+1.A Legal Entity is exempt from liability if it demonstrates that all reasonable preventive measures were taken.
+2. Exemption is not applicable if the Legal Entity failed to exercise obligatory or necessary oversight over the individual responsible, or if it failed to implement necessary preventive measures.
+
+## Chapter 2: Delicts
+### Title 1: Crimes
+
+#### Article 20: Special Law for Crimes
+1. Crimes represent the most severe category of delicts and shall be governed, prosecuted, and penalized in accordance with the Criminal Law, a special law to this Law.
+2. The Criminal Law shall be the definitive codex for all matters regarding the investigation, punishment, enumeration and adjudication of Crimes.
+
+### Title 2: Misdemeanors
+#### Article 21: Defining Misdemeanors
+##### Section 1: Classification and Enumeration of Misdemeanors
 All delicts not classified as crimes shall be considered Misdemeanors, which will be explicitly enumerated, prosecuted, and penalized under the provisions of this Law. Only acts specifically listed in this Law shall be recognized as Misdemeanors in Liberland.
-Section 2: Investigation and Adjudication of Misdemeanors
-The primary investigative authority for Misdemeanors shall be Law Enforcement, with the Court serving as an appellate entity to review decisions made by Law Enforcement.
-In the initial stages, Law Enforcement will process Misdemeanor cases in accordance with the Administrative Process Law, as detailed further within this Law.
-In cases advancing to adjudication, Misdemeanors will be subject to the Delict Process, a Special Judiciary Process outlined in this Law, and will be adjudicated before a Court.
-Disciplinary Offenses
-Section 1: Definition and Jurisdiction
-Disciplinary Offenses shall be a special category of Misdemeanors. These offenses require that the perpetrator be under the disciplinary authority of the victim. 
-Unlike standard misdemeanors, the initial handling of a Disciplinary Offense takes place through an Administrative Process led by the victim or their designated authority, rather than through Law Enforcement intervention.
-Section 2: Adjudication Process
-If a Disciplinary Offense necessitates formal adjudication beyond the Administrative Process, it will proceed to the judiciary phase consistent with the Delict Process used for Misdemeanors. 
-The case will be heard by the judiciary, adhering to the same legal standards and court that would apply to any other Misdemeanor.
-Concurrent commission of multiple Delicts
-Section 1: General Principle
+
+##### Section 2: Investigation and Adjudication of Misdemeanors
+1. The primary investigative authority for Misdemeanors shall be Law Enforcement, with the Court serving as an appellate entity to review decisions made by Law Enforcement.
+2. In the initial stages, Law Enforcement will process Misdemeanor cases in accordance with the Administrative Process Law, as detailed further within this Law.
+3. In cases advancing to adjudication, Misdemeanors will be subject to the Delict Process, a Special Judiciary Process outlined in this Law, and will be adjudicated before a Court.
+
+#### Article 22: Disciplinary Offenses
+##### Section 1: Definition and Jurisdiction
+1. Disciplinary Offenses shall be a special category of Misdemeanors. These offenses require that the perpetrator be under the disciplinary authority of the victim. 
+2. Unlike standard misdemeanors, the initial handling of a Disciplinary Offense takes place through an Administrative Process led by the victim or their designated authority, rather than through Law Enforcement intervention.
+
+##### Section 2: Adjudication Process
+1. If a Disciplinary Offense necessitates formal adjudication beyond the Administrative Process, it will proceed to the judiciary phase consistent with the Delict Process used for Misdemeanors. 
+2. The case will be heard by the judiciary, adhering to the same legal standards and court that would apply to any other Misdemeanor.
+
+#### Article 23: Concurrent commission of multiple Delicts
+##### Section 1: General Principle
 In instances where multiple Delicts are committed through a single act or a set of acts, prosecution shall proceed solely for the Delict subject to the most severe higher range of penalty.
-Section 2: Crimes and other Delicts
-Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law.
-In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
-Title 2: Sanctions
-Primary Sanctions
+
+##### Section 2: Crimes and other Delicts
+1. Where an act constitutes a Crime and also another Delict, in general, only the Crime shall be prosecuted according to the Criminal Law.
+2. In certain specific cases where this Law stipulates otherwise, committing crimes also results in the responsibility for other types of Delict.
+### Title 2: Sanctions
+
+#### Article 24: Primary Sanctions
 The organ adjudicating a Delict, henceforth “Adjudicating Organ”, may impose one of the following primary sanctions on an individual found guilty:
-Admonition, or
-Loss of Merit.
-Supplementary Sanctions
+    a. Admonition, or
+    b. Loss of Merit.
+
+#### Article 25: Supplementary Sanctions
 Alongside the primary sanctions, the following supplementary sanctions may be imposed where legally and materially justified:
-Restitution,
-Asset Forfeiture,
-Inclusion in a Public Blacklist.
-Activity Prohibition,
-Temporary or Permanent Reassignment, or
-Termination of Employment.
-Admonition
+    a. Restitution,
+    b. Asset Forfeiture,
+    c. Inclusion in a Public Blacklist.
+    d. Activity Prohibition,
+    e. Temporary or Permanent Reassignment, or
+    f. Termination of Employment.
+
+#### Article 26: Admonition
 In instances where the offense committed is of a minor nature and the offender exhibits signs of remorse or a low likelihood of reoffending, the Adjudicating Organ may opt to issue an Admonition, which may be conveyed either orally or in writing.
 Prior to issuing an Admonition, the Adjudicating Organ is required to:
 Clearly explain to the offender the nature of the offense and the possible consequences thereof;
