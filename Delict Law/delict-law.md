@@ -457,14 +457,23 @@ Permanent Reassignment of an Agent to a different Agency can only proceed with t
 
 #### Article 36: Information Contained in Records
 1. The record of all Delicts will include the following information about the case:
+   
     a. Identification of the perpetrator: By at least the name, surname, birth date, Liberland identification numbers, other national identification numbers known to the Adjudicating Organ.
+   
     b. Legal Classification: Type of offence and form of culpability, including information of applicable principles of liability for Delicts and, where present, exemptions from liability for Delicts;
+   
     c. Penalty: Type and extent of the penalty, including the punishment where the offence was a Crime or the primary sanction or protective measure if imposed, or information on conditional suspension of penalty;
+   
     d. Enforcement Data: Details on the execution of any activity ban or secondary sanction, if imposed, and data of any enforcement of the primary or secondary sanction;
-    e. Adjudicating Organ: Identification and location of the first-level and appellate administrative bodies that processed the offense
-    f. Decision Details: Case number, issue date, and effective date of the decision at both first-level and appellate proceedings
-    g. Appeal Proceedings: Identification and location of the authority that made the final decision in review proceedings, if these took place.
+   
+    e. Adjudicating Organ: Identification and location of the first-level and appellate administrative bodies that processed the offense;
+   
+    f. Decision Details: Case number, issue date, and effective date of the decision at both first-level and appellate proceedings;
+   
+    g. Appeal Proceedings: Identification and location of the authority that made the final decision in review proceedings, if these took place;
+   
     h. Supreme Court Case: Information regarding the proceedings of the case at the Supreme Court, should it have taken place.
+   
 2. The record of all Delicts will also include copies of all the relevant documents from the case file that had lead to the making of the original decisions.
 
 #### Article 37: Confidentiality and Exceptions
@@ -601,86 +610,105 @@ Any individual who engages in behavior that could be reasonably perceived as sev
 ### Title 3: Misdemeanors Against Public Order
 #### Article 50: Dangerous Operation of Vehicles, Machines, and Animals
 ##### Section 1: Imposition of Penalties for Hazardous Operation
-Individuals who operate any vehicle, machine, or ride an animal in a manner that is risky or results in endangerment, injury, or damage to themselves or others shall incur a penalty pursuant to this Law.
-Penalties for hazardous operations shall be assessed within a range of 50 to 50,000 Liberland Merit (LLM), with the exact amount determined by:
-The degree of risk posed by the individual's conduct;
-The actual harm or damage arising from such conduct.
-The penalty imposed will be directly proportional to the level of risk introduced or the extent of damage inflicted upon the victim or victims. In situations where only risk is present without actual damage, or the damage is negligible, the penalty shall not exceed 1,000 LLM.
-Section 2: Consideration of Aggravating Circumstances
-Penalties shall be subject to increase within the specified range under the following aggravating circumstances.
-The individual lacked legal authorization to operate the vehicle or machine, as per Croatian law;
-It is determined that the individual was aware, or a reasonably careful person would have been aware, of such legal prohibitions.
-The penalty may approach or reach the upper limit of the specified range exclusively in instances where the operation results in actual injury, significant damage, or precipitates an international incident.
-Rowdy Behavior
-Section 1: Offenses of Rowdy Behavior
-Individuals found engaging in rowdy, immoral, or disruptive behavior shall commit a Misdemeanor when their behaviour:
-Severely disrupts public order within Liberland; or
-Tarnishes Liberland's reputation in a public context,.
-Section 2: Determination of Penalties
-The penalty for engaging in behavior as described in Section 1 shall be ranging from 50 to 1,000 Liberland Merits (LLM).
-The specific amount of the penalty shall be determined based on:
-The severity of the disruption caused to public order;
-The nature of the behavior; and
-The impact and extent of the damage to Liberland's reputation.
-Title 4: Misdemeanors in construction and maintenance of objects
-Unauthorized Construction Activities
-Any individual, henceforth designated as the "Builder," who undertakes construction activities on land owned by another party or on land where the Government has explicitly prohibited construction or a specific type of construction, will be deemed in violation of this Law.
-Penalties for unauthorized construction activities shall be imposed based on the gravity of the violation and its resultant impacts. These penalties shall vary from a minimum of 50 Liberland Merit (LLM) to a maximum of 50,000 LLM. 
-The penalties near the maximum within this range are reserved to extremely serious and repeated violations where damage is already incurred by ongoing construction.
-Non-Compliance with Croatian Legal Standards in Construction
-Section 1: Compliance Requirements
+1. Individuals who operate any vehicle, machine, or ride an animal in a manner that is risky or results in endangerment, injury, or damage to themselves or others shall incur a penalty pursuant to this Law.
+2. Penalties for hazardous operations shall be assessed within a range of 50 to 50,000 Liberland Merit (LLM), with the exact amount determined by:   
+    a. The degree of risk posed by the individual's conduct;
+    b. The actual harm or damage arising from such conduct.
+    c. The penalty imposed will be directly proportional to the level of risk introduced or the extent of damage inflicted upon the victim or victims. In situations where only risk is present without actual damage, or the damage is negligible, the penalty shall not exceed 1,000 LLM.
+##### Section 2: Consideration of Aggravating Circumstances
+1. Penalties shall be subject to increase within the specified range under the following aggravating circumstances.
+2. The individual lacked legal authorization to operate the vehicle or machine, as per Croatian law;
+3. It is determined that the individual was aware, or a reasonably careful person would have been aware, of such legal prohibitions.
+4. The penalty may approach or reach the upper limit of the specified range exclusively in instances where the operation results in actual injury, significant damage, or precipitates an international incident.
+
+#### Article 51: Rowdy Behavior
+##### Section 1: Offenses of Rowdy Behavior
+1. Individuals found engaging in rowdy, immoral, or disruptive behavior shall commit a Misdemeanor when their behaviour:
+2. Severely disrupts public order within Liberland; or
+3. Tarnishes Liberland's reputation in a public context,.
+
+##### Section 2: Determination of Penalties
+1. The penalty for engaging in behavior as described in Section 1 shall be ranging from 50 to 1,000 Liberland Merits (LLM).
+2. The specific amount of the penalty shall be determined based on:
+    a. The severity of the disruption caused to public order;
+    b. The nature of the behavior; and
+    c. The impact and extent of the damage to Liberland's reputation.
+
+### Title 4: Misdemeanors in construction and maintenance of objects
+#### Article 52: Unauthorized Construction Activities
+1. Any individual, henceforth designated as the "Builder," who undertakes construction activities on land owned by another party or on land where the Government has explicitly prohibited construction or a specific type of construction, will be deemed in violation of this Law.
+2. Penalties for unauthorized construction activities shall be imposed based on the gravity of the violation and its resultant impacts. These penalties shall vary from a minimum of 50 Liberland Merit (LLM) to a maximum of 50,000 LLM. 
+3. The penalties near the maximum within this range are reserved to extremely serious and repeated violations where damage is already incurred by ongoing construction.
+
+#### Article 53: Non-Compliance with Croatian Legal Standards in Construction
+##### Section 1: Compliance Requirements
 Builders engaged in construction activities within the jurisdiction must adhere to Croatian legal standards concerning:
-The overall planning and conceptualization of building projects;
-Architectural designs or projects;
-The construction process itself; and
-Safety regulations applicable to construction sites.
-Section 2: Penalties for Non-Compliance
-Builders failing to meet the Croatian legal standards specified in Section 1 will face penalties. The severity of non-compliance will dictate the penalty amount, with fines ranging between 500 to 5,000 Liberland Merits (LLM).
-Should non-compliance result in construction works that cause damage, an additional penalty will be imposed on the Builder. This penalty will be assessed based on the damage extent, with penalties ranging from 1,000 to 100,000 LLM.
-Penalties approaching the upper limit of the specified ranges are designated for instances of non-compliance resulting in significant damage, with the maximum penalties applied in cases resulting in fatality or fatalities.
-Title 5: Disciplinary Offense
-Demeritorious Conduct
-Section 1: Standards of Conduct
-Individuals on active duty are obligated to maintain and uphold the dignity and reputation of Liberland at all times. Failure to comply with these standards, through acts or behavior detrimental to the settlement's dignity and reputation, shall be deemed a violation of this provision.
-Acts considered in violation include, but are not limited to:
-Conduct that publicly shames or discredits Liberland;
-Maintaining an unkempt state of grooming and hygiene that reflects poorly on Liberland;
-Using a tone of voice or engaging in behavior that is loud and disrupts the peace or disrespects the community;
-Demonstrating a lack of support for Liberland, whether verbally or through other forms of expression;
-Drunkenness or intoxication by substances that impair judgment or behavior.
-Section 2: Penalties for Violations
-Violations of the standards of conduct set forth in Section 1 shall incur penalties ranging from a minimum of 10 Liberland Merit (LLM) to a maximum of 1,000 LLM, based on the severity of the misconduct and the extent of its consequences on the community or Liberland's reputation.
-The determination of the penalty amount shall consider the nature and consequences of the misconduct, aiming to enforce standards while ensuring fair and proportional penalties.
-In instances where the demeritorious conduct significantly undermines the core objectives of Liberland or causes an international incident, the penalty imposed shall be doubled from the initial assessment.
-Willful Disobedience
-Any individual on active duty who willfully disobeys an instruction that is moral, safe, and reasonable shall incur a penalty. The penalty will vary based on the severity of the misconduct and its consequences, with a range from 50 to 5,000 Liberland Merits (LLM).
-In cases where the act of disobedience significantly undermines the core objective of the settlement or causes an international incident, the penalty shall be doubled.
-Additionally, the individual may face dismissal from duty or termination of their settlement tour.
-Fumbling
+    a. The overall planning and conceptualization of building projects;
+    b. Architectural designs or projects;
+    c. The construction process itself; and
+    d. Safety regulations applicable to construction sites.
+##### Section 2: Penalties for Non-Compliance
+1. Builders failing to meet the Croatian legal standards specified in Section 1 will face penalties. The severity of non-compliance will dictate the penalty amount, with fines ranging between 500 to 5,000 Liberland Merits (LLM).
+2. Should non-compliance result in construction works that cause damage, an additional penalty will be imposed on the Builder. This penalty will be assessed based on the damage extent, with penalties ranging from 1,000 to 100,000 LLM.
+3. Penalties approaching the upper limit of the specified ranges are designated for instances of non-compliance resulting in significant damage, with the maximum penalties applied in cases resulting in fatality or fatalities.
+
+### Title 5: Disciplinary Offense
+#### Article 54: Demeritorious Conduct
+##### Section 1: Standards of Conduct
+1. Individuals on active duty are obligated to maintain and uphold the dignity and reputation of Liberland at all times. Failure to comply with these standards, through acts or behavior detrimental to the settlement's dignity and reputation, shall be deemed a violation of this provision.
+2. Acts considered in violation include, but are not limited to:
+    a. Conduct that publicly shames or discredits Liberland;
+    b. Maintaining an unkempt state of grooming and hygiene that reflects poorly on Liberland;
+    c. Using a tone of voice or engaging in behavior that is loud and disrupts the peace or disrespects the community;
+    d. Demonstrating a lack of support for Liberland, whether verbally or through other forms of expression;
+    e. Drunkenness or intoxication by substances that impair judgment or behavior.
+##### Section 2: Penalties for Violations
+1. Violations of the standards of conduct set forth in Section 1 shall incur penalties ranging from a minimum of 10 Liberland Merit (LLM) to a maximum of 1,000 LLM, based on the severity of the misconduct and the extent of its consequences on the community or Liberland's reputation.
+2. The determination of the penalty amount shall consider the nature and consequences of the misconduct, aiming to enforce standards while ensuring fair and proportional penalties.
+3. In instances where the demeritorious conduct significantly undermines the core objectives of Liberland or causes an international incident, the penalty imposed shall be doubled from the initial assessment.
+
+#### Article 55: Willful Disobedience
+1. Any individual on active duty who willfully disobeys an instruction that is moral, safe, and reasonable shall incur a penalty. The penalty will vary based on the severity of the misconduct and its consequences, with a range from 50 to 5,000 Liberland Merits (LLM).
+2. In cases where the act of disobedience significantly undermines the core objective of the settlement or causes an international incident, the penalty shall be doubled.
+3. Additionally, the individual may face dismissal from duty or termination of their settlement tour.
+#### Article 56: Fumbling
 Any individual who is on active duty and either:
-Shows a lack of judgment in a situation that a moderately responsible professional would not underestimate or
-Fails to act where a reasonably responsible individual would act to advance the goals of or safeguard the settlement,
+
+    a. Shows a lack of judgment in a situation that a moderately responsible professional would not underestimate or
+    
+    b. Fails to act where a reasonably responsible individual would act to advance the goals of or safeguard the settlement,
+    
 shall be subject to a penalty ranging from 50 to 250 LLM, depending on the severity of the lack of good judgment and the resulting consequences.
-Resumption of Settlement Activities
+
+#### Article 56: Resumption of Settlement Activities
 Individuals subjected to penalties under this Title may resume their settlement activities only once their LLM account balance is restored to at least zero.
-Contempt of Court
-Section 1: Acts Constituting Contempt
+
+#### Article 57: Contempt of Court
+##### Section 1: Acts Constituting Contempt
 Any party or individual, excluding a Judge, involved in the Judicial Process who commits an act or omission that results in:
-Disrespect towards the court;
-Interference with court proceedings; 
-Undermining the authority of the court,
+
+    a. Disrespect towards the court;
+    
+    b. Interference with court proceedings; 
+    
+    c. Undermining the authority of the court,
+    
    	and thereby causes tangible consequences such as increased Court Costs, procedural 
-delays, or incurs damages to the State or other parties, shall be deemed to have 
-committed Contempt of Court.
-Additionally, engaging in an act specifically designated by this Law or the Judicial Process Law or the Administrative Process Law as incurring Contempt of Court shall lead to the same.
-Section 2: Adjudicating Organ for Contempt of Court
+      delays, or incurs damages to the State or other parties, 
+      shall be deemed to have committed Contempt of Court. 
+      Additionally, engaging in an act specifically designated by this Law or the Judicial Process Law or the Administrative Process Law as incurring Contempt of Court shall lead to the same.
+
+##### Section 2: Adjudicating Organ for Contempt of Court
 The Court shall be the disciplinary Adjudicating Organ for cases of the Contept of Court and it shall act through the Judge or the Judicial Panel presiding over the case during which the Contempt of Court is deemed to have occurred.
-Section 2: Penalties for Contempt of Court
-Individuals adjudged to have committed Contempt of Court will face penalties ranging from 150 to 5,000 Liberland Merits (LLM), depending on the act's gravity, contextual circumstances, and the offender's motives.
-First-time offenders are typically subject to penalties on the lower end of the specified range. In instances where a first-time offender shows a genuine intent to avoid future violations and the resulting damage is minimal, the Court may opt to issue an admonition instead of a financial penalty.
-Section 3: Aggravated Contempt of Court and Repeated Offenses
+
+##### Section 2: Penalties for Contempt of Court
+1. Individuals adjudged to have committed Contempt of Court will face penalties ranging from 150 to 5,000 Liberland Merits (LLM), depending on the act's gravity, contextual circumstances, and the offender's motives.
+2. First-time offenders are typically subject to penalties on the lower end of the specified range. In instances where a first-time offender shows a genuine intent to avoid future violations and the resulting damage is minimal, the Court may opt to issue an admonition instead of a financial penalty.
+
+##### Section 3: Aggravated Contempt of Court and Repeated Offenses
 In cases of repeated serious Contempt of Court offenses, especially under aggravating circumstances or resulting in significant consequences, and where further penalties are unlikely to effect a change in behavior, the Court reserves the right to summarily dismiss the offender’s case on the grounds of aggravated Contempt of Court.
-Book 2: Process Law
+
+# Book 2: Process Law
 Chapter 1: General Provisions
 Title 1: Scope of the Delict Process
 Procedure for Handling Delicts
