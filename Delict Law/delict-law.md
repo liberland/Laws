@@ -940,117 +940,149 @@ In cases of delicts that do not constitute crimes, substitution of the accuser i
 2. This power includes the ability to reassign such cases to other agencies, provided that
     a. the reassignment is essential for the protection of individual liberty, life, health, and property, or 
     b. the likelihood of a state victory in the proceedings is very high.
-#### Article 77: Withdrawal
-Section 1: Consequences of Withdrawal by the Accused
-In the event that the Defendant opts to withdraw from the proceedings, such withdrawal shall constitute an automatic full confession of guilt to the Delict precisely as that is presented by the Accuser at the time of withdrawal.
-Following the Defendant's withdrawal, the proceedings shall continue without their participation as a Party. However, the Accused may still be summoned as a Witness or another source of information. 
-The verdict will be rendered considering the Defendant's admission of guilt. Although rare, this may result in a partially innocent verdict, but it predominantly leads to a finding of guilt.
-Section 2: Consequences of Withdrawal by the Accuser
-Withdrawal by the Accuser results in the automatic dismissal of the accusations against the Defendant. A verdict shall then be issued as though the Accuser had declared the Defendant to be fully and unequivocally innocent.
-Despite the Accuser's withdrawal, there remains a possibility, albeit rare, that the proceedings may retain a finding of some degree of guilt for the Defendant. However, in most instances, the verdict will be one of innocence.
-Third-Party Intervention
-Third-party intervention in the process of adjudicating a Delict shall be permitted exclusively under the condition that the intervening party is a victim newly identifying themselves in relation to the Delict.
-To qualify for intervention, the newly identifying victim must demonstrate, with a reasonable degree of certainty, that they would be recognized as a victim of the act in question, should the accusation succeed either in whole or in part.
-Judge
-In the adjudication of non-Criminal Delicts, the matter shall be presided over by a single Judge. 
-The constitution of Judicial Panels for such cases is hereby excluded.
-Elevated  standard of Decision-making
-Beyond the stipulations of the Judicial Process Law regarding judicial decision-making, decisions concerning guilt, sentencing, and the imposition of sanctions must adhere to an enhanced standard of proof. Specifically, facts must be established beyond a reasonable doubt.
-This elevated standard requires the Accuser to present strong and persuasive evidence, which is sufficient to negate any reasonable alternative explanations for the facts in question.
-The responsibility to meet this elevated standard of proof lies solely with the Accuser, in order to safeguard the principle of the presumption of innocence. Accordingly, the Defendant is only required to meet the standard of proof as delineated in the General Process provisions.
-Requalification
-Section 1: Criteria for Requalification
-In instances where the presiding Judge determines, beyond a reasonable doubt, that the Delict in question would constitute a Crime if perpetrated, the judicial process concerning the Delict shall be halted.
-Subsequently, the case shall be transferred to the Criminal Court for appropriate adjudication.
-Section 2: Internal Transfer Procedures
-If the Criminal Court functions within the same judicial structure as the Judge making the determination, the transfer of the case shall occur internally within said court.
-The Judge may only transfer the case to themselves for further criminal proceedings in exceptional circumstances where no alternative procedural avenue exists.
-In such instances, the criminal process shall commence anew, ensuring due process and the integrity of the judicial procedure.
 
-Verdict
-Section 1: Composition of Verdicts
-Every verdict issued by the court must, besides fulfilling all the requirements of the Verdict in General Process, clearly state whether the accused is found innocent or guilty of the charges filed against them.
-In cases resulting in a guilty verdict, the court is required to impose at least one Primary Sanction on the Defendant, along with any Secondary Sanctions deemed appropriate.
-Section 2: Restitution of the Victim
-All guilty verdicts must include a provision for the restitution of the Victim. 
-The restitution shall be commensurate with the damage the Victim has provably sustained due to the actions of the Perpetrator. 
-This encompasses damages resulting directly from the Delict and, where justice necessitates, damages resulting indirectly.
-Section 3: Determinations Within Guilty Verdicts
+#### Article 77: Withdrawal
+##### Section 1: Consequences of Withdrawal by the Accused
+1. In the event that the Defendant opts to withdraw from the proceedings, such withdrawal shall constitute an automatic full confession of guilt to the Delict precisely as that is presented by the Accuser at the time of withdrawal.
+2. Following the Defendant's withdrawal, the proceedings shall continue without their participation as a Party. However, the Accused may still be summoned as a Witness or another source of information. 
+3. The verdict will be rendered considering the Defendant's admission of guilt. Although rare, this may result in a partially innocent verdict, but it predominantly leads to a finding of guilt.
+
+##### Section 2: Consequences of Withdrawal by the Accuser
+1. Withdrawal by the Accuser results in the automatic dismissal of the accusations against the Defendant. A verdict shall then be issued as though the Accuser had declared the Defendant to be fully and unequivocally innocent.
+2. Despite the Accuser's withdrawal, there remains a possibility, albeit rare, that the proceedings may retain a finding of some degree of guilt for the Defendant. However, in most instances, the verdict will be one of innocence.
+
+#### Article 78: Third-Party Intervention
+1. Third-party intervention in the process of adjudicating a Delict shall be permitted exclusively under the condition that the intervening party is a victim newly identifying themselves in relation to the Delict.
+2. To qualify for intervention, the newly identifying victim must demonstrate, with a reasonable degree of certainty, that they would be recognized as a victim of the act in question, should the accusation succeed either in whole or in part.
+
+#### Article 79: Judge
+1. In the adjudication of non-Criminal Delicts, the matter shall be presided over by a single Judge. 
+2. The constitution of Judicial Panels for such cases is hereby excluded.
+
+#### Article 80: Elevated  standard of Decision-making
+1. Beyond the stipulations of the Judicial Process Law regarding judicial decision-making, decisions concerning guilt, sentencing, and the imposition of sanctions must adhere to an enhanced standard of proof. Specifically, facts must be established beyond a reasonable doubt.
+2. This elevated standard requires the Accuser to present strong and persuasive evidence, which is sufficient to negate any reasonable alternative explanations for the facts in question.
+3. The responsibility to meet this elevated standard of proof lies solely with the Accuser, in order to safeguard the principle of the presumption of innocence. Accordingly, the Defendant is only required to meet the standard of proof as delineated in the General Process provisions.
+
+#### Article 81: Requalification
+##### Section 1: Criteria for Requalification
+1. In instances where the presiding Judge determines, beyond a reasonable doubt, that the Delict in question would constitute a Crime if perpetrated, the judicial process concerning the Delict shall be halted.
+2. Subsequently, the case shall be transferred to the Criminal Court for appropriate adjudication.
+
+##### Section 2: Internal Transfer Procedures
+1. If the Criminal Court functions within the same judicial structure as the Judge making the determination, the transfer of the case shall occur internally within said court.
+2. The Judge may only transfer the case to themselves for further criminal proceedings in exceptional circumstances where no alternative procedural avenue exists.
+3. In such instances, the criminal process shall commence anew, ensuring due process and the integrity of the judicial procedure.
+
+#### Article 82: Verdict
+##### Section 1: Composition of Verdicts
+1. Every verdict issued by the court must, besides fulfilling all the requirements of the Verdict in General Process, clearly state whether the accused is found innocent or guilty of the charges filed against them.
+2. In cases resulting in a guilty verdict, the court is required to impose at least one Primary Sanction on the Defendant, along with any Secondary Sanctions deemed appropriate.
+
+##### Section 2: Restitution of the Victim
+1. All guilty verdicts must include a provision for the restitution of the Victim.
+2. The restitution shall be commensurate with the damage the Victim has provably sustained due to the actions of the Perpetrator. 
+3. This encompasses damages resulting directly from the Delict and, where justice necessitates, damages resulting indirectly.
+
+##### Section 3: Determinations Within Guilty Verdicts
 The final judgment on a guilty verdict can substantially differ from the initial accusations made by the accuser. The Judge has the discretion to:
-Assign a lesser or partial level of guilt to the Defendant;
-Reclassify the charged delict to a less serious category; or
-Levy a penalty less severe than initially demanded.
-Section 4: Constraints on Judicial Discretion
-Although Judges have the authority to sentence harsher penalties than those proposed by the Accuser, such sentences must not exceed the statutory maximum for the most severe Delict charged.
-The Judge's ability to modify sentencing is limited by the principle that no imposed penalty can exceed the maximum allowable for the most serious delict charged.
-Should a Judge reclassify the actions of the Defendant to a delict carrying a minimal penalty higher than the maximum for the originally charged delict, the Judge must impose the maximum penalty associated with the delict for which the Defendant was initially accused.
-The above notwithstanding, the restitution of the Victim shall always follow the legal truth and therefore shall be based on the Delict for which the Defendant is being charged.
-Title 2: Steps of the Delict Process
-Controversial Process
+
+    a. Assign a lesser or partial level of guilt to the Defendant;
+
+    b. Reclassify the charged delict to a less serious category; or
+
+    c. Levy a penalty less severe than initially demanded.
+
+##### Section 4: Constraints on Judicial Discretion
+1. Although Judges have the authority to sentence harsher penalties than those proposed by the Accuser, such sentences must not exceed the statutory maximum for the most severe Delict charged.
+2. The Judge's ability to modify sentencing is limited by the principle that no imposed penalty can exceed the maximum allowable for the most serious delict charged.
+3. Should a Judge reclassify the actions of the Defendant to a delict carrying a minimal penalty higher than the maximum for the originally charged delict, the Judge must impose the maximum penalty associated with the delict for which the Defendant was initially accused.
+4. The above notwithstanding, the restitution of the Victim shall always follow the legal truth and therefore shall be based on the Delict for which the Defendant is being charged.
+
+### Title 2: Steps of the Delict Process
+#### Article 83: Controversial Process
 All proceedings related to a Delict shall be inherently controversial. As a result, any provisions or regulations pertaining to Non-Controversial Processes shall not be applicable to Delict proceedings.
-Exclusion of Written Process
-As a general rule, the Written Process shall not be conducted in judicial proceedings.
-The Written Process may only be initiated if the presiding Judge determines that the case is either sufficiently simple or the Administrative Delict Process examined it with a sufficient thoroughness to warrant such a process as adequate for resolution.
-In instances where the Written Process is used but later deemed insufficient for case resolution, the determination of Court Costs associated with it shall adhere to the guidelines established for the Administrative Delict Process.
-Delict Process Application
-Section 1: Application requirements
-The Application initiating the Delict Process shall be predicated upon the previously rejected Delict Order. 
-Where a simplified Payment Order is issued instead of a Delict Order, the Application shall be set up ad hoc based on the criteria established for full Delict Orders.
-The Application shall include the full file of the First Stage of the Delict Process including all the items of evidence and all the basis of reasoning, along with explanations where those are needed to make the entire set of information easy to understand by the Judge and the other Parties.
-While the Administrative Organ may make modifications to the Application vis a vis a pre-existing Delict Order or Payment Order, such amendments must not substantially alter the subject matter outlined in the original order.
-Section 2: Delivery and Summons
+
+#### Article 84: Exclusion of Written Process
+1. As a general rule, the Written Process shall not be conducted in judicial proceedings.
+2. The Written Process may only be initiated if the presiding Judge determines that the case is either sufficiently simple or the Administrative Delict Process examined it with a sufficient thoroughness to warrant such a process as adequate for resolution.
+3. In instances where the Written Process is used but later deemed insufficient for case resolution, the determination of Court Costs associated with it shall adhere to the guidelines established for the Administrative Delict Process.
+
+#### Article 85: Delict Process Application
+##### Section 1: Application requirements
+1. The Application initiating the Delict Process shall be predicated upon the previously rejected Delict Order. 
+2. Where a simplified Payment Order is issued instead of a Delict Order, the Application shall be set up ad hoc based on the criteria established for full Delict Orders.
+3. The Application shall include the full file of the First Stage of the Delict Process including all the items of evidence and all the basis of reasoning, along with explanations where those are needed to make the entire set of information easy to understand by the Judge and the other Parties.
+4. While the Administrative Organ may make modifications to the Application vis a vis a pre-existing Delict Order or Payment Order, such amendments must not substantially alter the subject matter outlined in the original order.
+
+##### Section 2: Delivery and Summons
 Ordinarily, the Court is responsible for delivering the Application to all relevant parties, accompanied by a summons to appear at trial.
-Section 3: Exception for Written Process
+
+##### Section 3: Exception for Written Process
 In instances where the Judge, by exception, opts for a Written Process, the further process regarding the Application shall continue in accordance with the General Process rules without any alterations.
-No Mediation
-The procedure for addressing a Delict shall proceed without the inclusion of Mediation. 
-In instances of uncertainty regarding the application of Mediation, it shall be presumed that an attempt at Mediation was undertaken and concluded unsuccessfully, albeit with no attributed failure to any involved party.
-Right to Modify the Application
-Section 1: Modification Rights of the Accuser
-The Accuser is granted the right to modify the Application before the Trial begins. This includes alterations to the claims or the factual and legal basis of the Application.
-The above notwithstanding, the Accuser may withdraw any part of or the entire claim at any stage of the Trial proceedings, or otherwise modify their Application in agreement and to the benefit of the Defendant, up until the Verdict becomes legally binding.
-Section 2: Rights of the Victim to Modify Claims
-The Victim retains the right to modify their claim throughout the Trial proceedings. This encompasses the ability to change any details of the claim or to completely withdraw the Application.
-Should the Victim choose to withdraw their Application, they may risk losing their right to seek restitution. The determination of such forfeiture will depend on the particular circumstances of the withdrawal, considering factors such as the timing and reasons for the decision.
-Plea Bargain
-Section 1: Initiation of Plea Bargains
-The Accuser is entitled to propose a Plea Bargain to the Defendant, permitting the Defendant to acknowledge guilt fully or partially concerning the charges or specific aspects thereof in exchange for the modification of the Application to the benefit of the Defendant.
-The process of negotiating and finalizing a Plea Bargain must be comprehensively recorded. It is the sole responsibility of the Accuser to ensure that such documentation is complete and accurate.
-Where this responsibility is not sustained, the Judge shall order the negotiations to be redone and shall ensure their documentation at the expense of the Accuser.
-Section 2: Victim Involvement and Rights
-Plea Bargain agreements must be communicated to any Victims associated with the case. Victims reserve the right to submit recommendations or express outright disagreement with the proposed Plea Bargain.
-In cases of disagreement or recommendations by Victims, the Accuser and Defendant are required to address and satisfy the concerns raised by the Victims to proceed with the Plea Bargain.
-Section 3: Administrative Costs and Responsibilities
-All administrative expenses related to the Plea Bargain process shall initially be covered by the Accuser.
-Should a Judge determine that a Victim's delay or objection is made in bad faith or is vexatious, a warning will be issued to the Victim. If the Victim persists, they may be held responsible for any subsequent Plea Bargain costs incurred due to their actions.
-Section 4: Court Costs Agreement
-The Plea Bargain agreement must include provisions for the allocation of court costs. 
-In the absence of such an agreement, or if the agreement does not fully cover the costs, the Judge will decree that the costs be divided between the Accuser and the Defendant.
-Procedure for Appeals Against Decisions on Delicts
-Section 1: Grounds for Appeal
-Appeals against decisions rendered in cases of delicts must be made on at least one of the following grounds:
-Determinations of guilt or innocence, including the assessment of degrees of guilt, partial guilt, or specific aspects of the case, while acknowledging others.
-Judgments concerning the penalty, where the principle of guilt is not contested, but the appeal concerns the extent of guilt, particular elements of the case, or exclusively the nature or severity of the sanction imposed.
-Rulings on the costs associated with the case, particularly where such costs are argued to be disproportionately high or based on inaccurately presented facts.
-Section 2: Limitations on the Court of Appeals
-The Court of Appeals shall use the General Process rules for conducting the Appeals Process regarding a Delict. 
-However, the Court of Appeals is in general precluded from increasing the severity of the penalty beyond that determined by the first instance court.
-Should the delict be adjudged more severe by the Court of Appeals, the penalty shall remain as imposed by the first instance court.
-In cases where the delict is recognized as warranting a minimum punishment that exceeds the maximum punishment for the delict as judged in the first instance, the maximum punishment for the reclassified delict shall apply, even if it exceeds the punishment originally imposed.
-Section 3: Referral to Criminal Court
-When the Court of Appeals reclassifies a delict as a crime, the case shall be forwarded to the Criminal Court for further adjudication.
-Should the Criminal Court conclude that the act in question does not meet the criteria for a crime, the following provisions shall apply
-The proceedings related to the criminal aspect of the case shall be deemed concluded, and the individual's guilty status for the Delict, as determined by the verdict of the first instance, shall remain unaffected.
-However, 
-Any previously imposed sanctions for the delict except for Restitution shall be annulled.
-The Delict shall not count for the purpose of determining repeated perpetration in case of future Delict proceedings;
+
+#### Article 86: No Mediation
+1. The procedure for addressing a Delict shall proceed without the inclusion of Mediation. 
+2. In instances of uncertainty regarding the application of Mediation, it shall be presumed that an attempt at Mediation was undertaken and concluded unsuccessfully, albeit with no attributed failure to any involved party.
+
+#### Article 87: Right to Modify the Application
+##### Section 1: Modification Rights of the Accuser
+1. The Accuser is granted the right to modify the Application before the Trial begins. This includes alterations to the claims or the factual and legal basis of the Application.
+2. The above notwithstanding, the Accuser may withdraw any part of or the entire claim at any stage of the Trial proceedings, or otherwise modify their Application in agreement and to the benefit of the Defendant, up until the Verdict becomes legally binding.
+
+##### Section 2: Rights of the Victim to Modify Claims
+1. The Victim retains the right to modify their claim throughout the Trial proceedings. This encompasses the ability to change any details of the claim or to completely withdraw the Application.
+2. Should the Victim choose to withdraw their Application, they may risk losing their right to seek restitution. The determination of such forfeiture will depend on the particular circumstances of the withdrawal, considering factors such as the timing and reasons for the decision.
+
+#### Article 88: Plea Bargain
+##### Section 1: Initiation of Plea Bargains
+1. The Accuser is entitled to propose a Plea Bargain to the Defendant, permitting the Defendant to acknowledge guilt fully or partially concerning the charges or specific aspects thereof in exchange for the modification of the Application to the benefit of the Defendant.
+2. The process of negotiating and finalizing a Plea Bargain must be comprehensively recorded. It is the sole responsibility of the Accuser to ensure that such documentation is complete and accurate.
+3. Where this responsibility is not sustained, the Judge shall order the negotiations to be redone and shall ensure their documentation at the expense of the Accuser.
+
+##### Section 2: Victim Involvement and Rights
+1. Plea Bargain agreements must be communicated to any Victims associated with the case. Victims reserve the right to submit recommendations or express outright disagreement with the proposed Plea Bargain.
+2. In cases of disagreement or recommendations by Victims, the Accuser and Defendant are required to address and satisfy the concerns raised by the Victims to proceed with the Plea Bargain.
+
+##### Section 3: Administrative Costs and Responsibilities
+1. All administrative expenses related to the Plea Bargain process shall initially be covered by the Accuser.
+2. Should a Judge determine that a Victim's delay or objection is made in bad faith or is vexatious, a warning will be issued to the Victim. If the Victim persists, they may be held responsible for any subsequent Plea Bargain costs incurred due to their actions.
+
+##### Section 4: Court Costs Agreement
+1. The Plea Bargain agreement must include provisions for the allocation of court costs. 
+2. In the absence of such an agreement, or if the agreement does not fully cover the costs, the Judge will decree that the costs be divided between the Accuser and the Defendant.
+
+#### Article 89: Procedure for Appeals Against Decisions on Delicts
+
+##### Section 1: Grounds for Appeal
+1. Appeals against decisions rendered in cases of delicts must be made on at least one of the following grounds:
+2. Determinations of guilt or innocence, including the assessment of degrees of guilt, partial guilt, or specific aspects of the case, while acknowledging others.
+3. Judgments concerning the penalty, where the principle of guilt is not contested, but the appeal concerns the extent of guilt, particular elements of the case, or exclusively the nature or severity of the sanction imposed.
+4. Rulings on the costs associated with the case, particularly where such costs are argued to be disproportionately high or based on inaccurately presented facts.
+
+##### Section 2: Limitations on the Court of Appeals
+1. The Court of Appeals shall use the General Process rules for conducting the Appeals Process regarding a Delict. 
+2. However, the Court of Appeals is in general precluded from increasing the severity of the penalty beyond that determined by the first instance court.
+3. Should the delict be adjudged more severe by the Court of Appeals, the penalty shall remain as imposed by the first instance court.
+4. In cases where the delict is recognized as warranting a minimum punishment that exceeds the maximum punishment for the delict as judged in the first instance, the maximum punishment for the reclassified delict shall apply, even if it exceeds the punishment originally imposed.
+
+##### Section 3: Referral to Criminal Court
+1. When the Court of Appeals reclassifies a delict as a crime, the case shall be forwarded to the Criminal Court for further adjudication.
+2. Should the Criminal Court conclude that the act in question does not meet the criteria for a crime, the following provisions shall apply
+    a. The proceedings related to the criminal aspect of the case shall be deemed concluded, and the individual's guilty status for the Delict, as determined by the verdict of the first instance, shall remain unaffected.
+    b. However, 
+       i. Any previously imposed sanctions for the delict except for Restitution shall be annulled.
+       ii. The Delict shall not count for the purpose of determining repeated perpetration in case of future Delict proceedings;
 Despite the annulment of the sanctions:
-The Perpetrator will be obligated to cover all process costs incurred throughout the Delict proceedings, except for those for the Criminal process, which shall be covered by the Accuser.
-The sanction of Restitution shall remain in effect and enforceable against the perpetrator exactly as ordered by the Court in the first instance.
-Supreme Court
-The Supreme Court shall, in general, prioritise before other Cases the hearing of Delict Cases that have significant consequences for the Perpetrator, especially in instances where:
-There exists substantial doubt regarding the fairness of the verdict or the integrity of the preceding process; especially when
-The case pertains to an alleged Crime.
-Chapter 3: Final Provision
-Legal Force
+3. The Perpetrator will be obligated to cover all process costs incurred throughout the Delict proceedings, except for those for the Criminal process, which shall be covered by the Accuser.
+4. The sanction of Restitution shall remain in effect and enforceable against the perpetrator exactly as ordered by the Court in the first instance.
+
+#### Article 90: Supreme Court
+1. The Supreme Court shall, in general, prioritise before other Cases the hearing of Delict Cases that have significant consequences for the Perpetrator, especially in instances where:
+2. There exists substantial doubt regarding the fairness of the verdict or the integrity of the preceding process; especially when
+3. The case pertains to an alleged Crime.
+
+## Chapter 3: Final Provision
+
+#### Article 91: Legal Force
 This law shall gain legal force on …
