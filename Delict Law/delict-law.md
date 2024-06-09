@@ -859,70 +859,88 @@ In instances where the decision is made to continue with the prosecution, the Ad
 3. In cases where the Simplified Payment Order is not fully agreed upon by the perpetrator, the provisions for issuing an objection shall be identical to those applicable to a Delict Order.
 
 #### Article 70: Criteria for Adjudicating Delicts
-Section 1: Evidence Collection and Verification
-All decisions in Delict cases shall be based on evidence that is concrete and factually grounded. Acceptable forms of evidence include, but are not limited to, photographs, physical objects, written statements, and official documents.
-Direct observations by Administrative Organs or witnesses, as well as confessions from suspects, are deemed valid forms of evidence. However, these must be:
-Documented in a manner that allows for independent third-party verification.
-Recorded either during the event or immediately following the event or receipt of an oral witness statement.
-Section 2: Decision-Making Process
+##### Section 1: Evidence Collection and Verification
+1. All decisions in Delict cases shall be based on evidence that is concrete and factually grounded. Acceptable forms of evidence include, but are not limited to, photographs, physical objects, written statements, and official documents.
+2. Direct observations by Administrative Organs or witnesses, as well as confessions from suspects, are deemed valid forms of evidence. However, these must be:
+
+    a. Documented in a manner that allows for independent third-party verification.
+
+    b. Recorded either during the event or immediately following the event or receipt of an oral witness statement.
+
+##### Section 2: Decision-Making Process
 Decisions regarding Delicts must be:
-Based on a thorough and reasoned analysis of the case facts.
-Supported by explicit references to the evidence gathered.
-Section 3: Documentation and Archiving
-Proper documentation of all evidence is mandatory. This includes the method of evidence collection, the time and date of its acquisition, and any relevant observations or statements related to the evidence.
-All documented evidence and related decision-making records must be forwarded to the Ministry of Justice. These documents will be archived for future reference, ensuring the integrity of the adjudication process and facilitating any necessary reviews or appeals.
-Title 2: Administrative considerations
-Recovery of Process Costs in Delict Cases
-Section 1: Compensation Obligation
-Individuals found guilty in Delict cases shall be required to compensate the Government for administrative costs incurred. These costs include, but are not limited to, expenses directly related to the investigation of the case and the issuance of the Misdemeanor Order.
-For costs to be compensable, they must:
-Have been actually incurred by the Government;
-Be demonstrably necessary for the conduct of the investigation and the preparation of the Delict Order;
-Be provably accurate, reflecting the minimal necessary actions undertaken during these processes.
-Should the obligated compensation not be paid within eight days, it will be converted into a deduction from the individual's Liberland Merits (LLM), calculated at the market price of LLM in Liberland Dollars at the time of conversion. Subsequent payment of the compensation in a currency accepted by the Government will result in the unconditional restoration of the deducted merits.
-Section 2: Calculation of Compensation Amount
-The compensation amount demanded from the perpetrator will not cover the total expenses borne by the Government in the misdemeanor proceedings. Instead, it will reflect an amount deemed necessary to cover administrative tasks under ideal conditions.
-The maximal amount of compensation shall be ⅓ of the sanction of Loss of Merit incurred with the maximum being 500 LLM regardless of the actually incurred costs; and 20 LLM in case of an Admonition.
-The Ministry of Justice shall establish a uniform tariff through regulation, which will be used as the basis for calculating claims for administrative costs against perpetrators in Delict cases. This tariff aims to ensure fairness and consistency in the assessment of compensable costs.
-Administrative Organ for Delicts
-The primary Administrative Organ responsible for on-the-ground investigation of Delicts in Liberland shall be the Watch.
-In areas proximate to a Border Crossing Point, the responsible administrative organ shall be IBIS.
-Delicts that take place outside of Liberland shall be placed under the jurisdiction of the Ministry of Justice.
-Chapter 3: Second Stage: Delict Judicial Process
-Title 1: General Considerations
-Special Process
-The judicial procedure for handling delicts, referred to herein as the "Delict Process," is hereby designated as a Special Process within the meaning of the Judicial Process Law.
-The Delict Process shall adhere to the General Process outlined in the Judicial Process Law, applying its principles and procedures to the adjudication of delicts.
-Parties in Delict Process
-Section 1: Parties in Delict Process
+
+    a. Based on a thorough and reasoned analysis of the case facts.
+
+    b. Supported by explicit references to the evidence gathered.
+
+##### Section 3: Documentation and Archiving
+1. Proper documentation of all evidence is mandatory. This includes the method of evidence collection, the time and date of its acquisition, and any relevant observations or statements related to the evidence.
+2. All documented evidence and related decision-making records must be forwarded to the Ministry of Justice. These documents will be archived for future reference, ensuring the integrity of the adjudication process and facilitating any necessary reviews or appeals.
+
+### Title 2: Administrative considerations
+
+#### Article 71: Recovery of Process Costs in Delict Cases
+##### Section 1: Compensation Obligation
+1. Individuals found guilty in Delict cases shall be required to compensate the Government for administrative costs incurred. These costs include, but are not limited to, expenses directly related to the investigation of the case and the issuance of the Misdemeanor Order.
+2. For costs to be compensable, they must:
+    a. Have been actually incurred by the Government;
+    b. Be demonstrably necessary for the conduct of the investigation and the preparation of the Delict Order;
+    c. Be provably accurate, reflecting the minimal necessary actions undertaken during these processes.
+3. Should the obligated compensation not be paid within eight days, it will be converted into a deduction from the individual's Liberland Merits (LLM), calculated at the market price of LLM in Liberland Dollars at the time of conversion. Subsequent payment of the compensation in a    currency accepted by the Government will result in the unconditional restoration of the deducted merits.
+
+##### Section 2: Calculation of Compensation Amount
+1. The compensation amount demanded from the perpetrator will not cover the total expenses borne by the Government in the misdemeanor proceedings. Instead, it will reflect an amount deemed necessary to cover administrative tasks under ideal conditions.
+2. The maximal amount of compensation shall be ⅓ of the sanction of Loss of Merit incurred with the maximum being 500 LLM regardless of the actually incurred costs; and 20 LLM in case of an Admonition.
+3. The Ministry of Justice shall establish a uniform tariff through regulation, which will be used as the basis for calculating claims for administrative costs against perpetrators in Delict cases. This tariff aims to ensure fairness and consistency in the assessment of compensable costs.
+
+#### Article 72: Administrative Organ for Delicts
+1. The primary Administrative Organ responsible for on-the-ground investigation of Delicts in Liberland shall be the Watch.
+2. In areas proximate to a Border Crossing Point, the responsible administrative organ shall be IBIS.
+3. Delicts that take place outside of Liberland shall be placed under the jurisdiction of the Ministry of Justice.
+
+## Chapter 3: Second Stage: Delict Judicial Process
+### Title 1: General Considerations
+#### Article 73: Special Process
+1. The judicial procedure for handling delicts, referred to herein as the "Delict Process," is hereby designated as a Special Process within the meaning of the Judicial Process Law.
+2. The Delict Process shall adhere to the General Process outlined in the Judicial Process Law, applying its principles and procedures to the adjudication of delicts.
+
+#### Article 74: Parties in Delict Process
+##### Section 1: Parties in Delict Process
 In any proceeding concerning a delict, the recognized parties shall be as follows:
-The Adjudicating Organ, assuming the role of the Accuser, taking up the rights and responsibilities of the Applicant;
-The Defendant, being the individual or entities identified as the Perpetrator(s) or co-Perpetrators of the delict, taking up the rights and responsibilities of the Respondent;
-The Victim(s), who have suffered harm as a result of the Delict.
-Section 2: Participation of Additional Persons and Entities
-While additional persons and entities may be involved in the delict proceedings, they shall not be considered parties to the case.
-Such participants are precluded from exercising decision-making authority on certain matters within the proceedings, as stipulated by the Judicial Process Law.
-Legal Representation
-Section 1: Right to Representation
-The right to legal representation is universally guaranteed. Specifically, the Accused shall enjoy an enhanced right to be represented, reflecting the importance of effective legal counsel in ensuring a fair trial.
-The Accused shall be explicitly informed of their right to legal counsel. They shall be afforded ample opportunity to select legal counsel that best meets their needs and preferences.
-Section 2: Appointment of Counsel
+    a. The Adjudicating Organ, assuming the role of the Accuser, taking up the rights and responsibilities of the Applicant;
+    b. The Defendant, being the individual or entities identified as the Perpetrator(s) or co-Perpetrators of the delict, taking up the rights and responsibilities of the Respondent;
+    c. The Victim(s), who have suffered harm as a result of the Delict.
+
+##### Section 2: Participation of Additional Persons and Entities
+1. While additional persons and entities may be involved in the delict proceedings, they shall not be considered parties to the case.
+2. Such participants are precluded from exercising decision-making authority on certain matters within the proceedings, as stipulated by the Judicial Process Law.
+
+#### Article 75: Legal Representation
+##### Section 1: Right to Representation
+1. The right to legal representation is universally guaranteed. Specifically, the Accused shall enjoy an enhanced right to be represented, reflecting the importance of effective legal counsel in ensuring a fair trial.
+2. The Accused shall be explicitly informed of their right to legal counsel. They shall be afforded ample opportunity to select legal counsel that best meets their needs and preferences.
+
+##### Section 2: Appointment of Counsel
 Should the Accused opt to delegate the selection of legal counsel to the Court, a legal counsel shall be appointed to them by the Court.
-Section 3: Financial Arrangements for Legal Representation
-Agreements or other arrangements notwithstanding, the obligation of the Defendant to remunerate legal counsel shall not arise prior to the issuance of the Verdict that has acquired legal force and the determination of court costs.
-Notwithstanding the provisions of the preceding paragraph, legal representation shall be considered a component of regular court costs and, as such, shall be the responsibility of the party adJudged to bear the court costs.
-Limits of Substitution
-Section 1: Effect of Death on Delict Proceedings
-The liability for a delict is extinguished upon the death of the party who is a natural person. As such, no substitution due to death is permissible for the Defendant. 
-Consequently, the legal process concerning the deceased Defendant shall be deemed as if it had not progressed to the second stage, effectively terminating the proceedings.
-Section 2: Non-substitutability in Non-criminal Delicts
+
+##### Section 3: Financial Arrangements for Legal Representation
+1. Agreements or other arrangements notwithstanding, the obligation of the Defendant to remunerate legal counsel shall not arise prior to the issuance of the Verdict that has acquired legal force and the determination of court costs.
+2. Notwithstanding the provisions of the preceding paragraph, legal representation shall be considered a component of regular court costs and, as such, shall be the responsibility of the party adJudged to bear the court costs.
+
+#### Article: 76 Limits of Substitution
+##### Section 1: Effect of Death on Delict Proceedings
+1. The liability for a delict is extinguished upon the death of the party who is a natural person. As such, no substitution due to death is permissible for the Defendant. 
+2. Consequently, the legal process concerning the deceased Defendant shall be deemed as if it had not progressed to the second stage, effectively terminating the proceedings.
+##### Section 2: Non-substitutability in Non-criminal Delicts
 In cases of delicts that do not constitute crimes, substitution of the accuser is not permitted. Should the accuser's entity cease to exist, undergo division that destroys the identity or changes the fundamental rules, persons and systems of the accuser, or undergo any change negating its original status, all related delict proceedings shall be concluded automatically within three months following such change.
-Section 3: Extraordinary Powers of the Ministry of Justice
-The Ministry of Justice is vested with extraordinary authority to assume jurisdiction over certain cases regarding non-criminal Delicts if the cessation or alteration of the accuser's entity occurs. 
-This power includes the ability to reassign such cases to other agencies, provided that
-the reassignment is essential for the protection of individual liberty, life, health, and property, or 
-the likelihood of a state victory in the proceedings is very high.
-Withdrawal
+
+##### Section 3: Extraordinary Powers of the Ministry of Justice
+1. The Ministry of Justice is vested with extraordinary authority to assume jurisdiction over certain cases regarding non-criminal Delicts if the cessation or alteration of the accuser's entity occurs. 
+2. This power includes the ability to reassign such cases to other agencies, provided that
+    a. the reassignment is essential for the protection of individual liberty, life, health, and property, or 
+    b. the likelihood of a state victory in the proceedings is very high.
+#### Article 77: Withdrawal
 Section 1: Consequences of Withdrawal by the Accused
 In the event that the Defendant opts to withdraw from the proceedings, such withdrawal shall constitute an automatic full confession of guilt to the Delict precisely as that is presented by the Accuser at the time of withdrawal.
 Following the Defendant's withdrawal, the proceedings shall continue without their participation as a Party. However, the Accused may still be summoned as a Witness or another source of information. 
