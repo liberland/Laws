@@ -72,13 +72,13 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
     b. International Treaties.
 
 #### Article 4: Forms of the Referendum
-##### Section 1: General Referendum
-1. Conform with Art. 73 of the Constitution, the General Referendum shall serve for the enactment, the amendment, and the repealing of the legislative instruments stipulated for the Referendum by this law.
-2. Taking the option given by the Constitution in Art. 73 Section 2/2, voting in the General Referendum shall generally be conducted using voting instruments, which Citizens shall be able to purchase on the open market.
+##### Section 1: Meritocratic Referendum
+1. Conform with Art. 73 of the Constitution, the Meritocratic Referendum shall serve for the enactment, the amendment, and the repealing of the legislative instruments stipulated for the Referendum by this law.
+2. Taking the option given by the Constitution in Art. 73 Section 2/2, voting in the Meritocratic Referendum shall generally be conducted using voting instruments, which Citizens shall be able to purchase on the open market.
 
-##### Section 2: Negative Referendum
-1. The purpose of the Negative Referendum shall be to repeal legal instruments currently having legal effects in Liberland.
-2. There shall be two forms of Negative Referendum, namely:
+##### Section 2: Democratic Veto
+1. The purpose of the Democratic Veto shall be to repeal legal instruments currently having legal effects in Liberland.
+2. There shall be two forms of Democratic Veto, namely:
    
     a. The Public Veto conform with Art. 76/1 of the Constitution shall have the power to remove the legal effect from any of the legal instruments currently             having legal effect in Liberland; and
 
@@ -92,17 +92,17 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
    
        iv. an individual minister.
 
-## Chapter 2: Positive Referendum Process
-#### Article 5: Voting instrument in the General Referendum
+## Chapter 2: Meritocratic Referendum Process
+#### Article 5: Voting instrument in the Meritocratic Referendum
 ##### Section 1: Liberland Merit and voting rules
-1. The only form of voting instrument permitted for use in the Positive Referendum shall be politically pooled Liberland Merit (LLM).
+1. The only form of voting instrument permitted for use in the Meritocratic Referendum shall be politically pooled Liberland Merit (LLM).
 2. A single LLM shall be usable in an open number of concurrent referenda and shall not require any cooldown period after voting in one referendum in order to be used in another referendum.
 
 ##### Section 2: Political Pooling and liquidity restrictions
 1. Political pooling shall involve at least restricting the liquidity of LLM, such that they cannot be transferred to a different wallet. Political pooling shall in general last for an indefinite amount of time..
 2. Political pooling will be reversible, but only at the rate of 10 percent per year, collectable in twelve instalments, each releasing one-twelfth of one-tenth of the Citizen’s politically pooled LLM balance.
 
-#### Article 6: Initiating the General Referendum
+#### Article 6: Initiating the Meritocratic Referendum
 1. Any Citizen can  submit proposals for new or changed voting instruments or decisions they want to see enacted by the Referendum, henceforth “Proposal”. A Proposal submitted by a Citizen shall be known as a Citizen Proposal and the subsequent referendum shall be referred to as Citizen Referendum.
 2. In addition, Congress in its entirety can vote on submitting a Proposal according to its rules of decision-making. When the Proposal passes the required quorum, it shall become a Congress Proposal and the subsequent referendum shall be referred to as Congress Referendum.
 3. Procedurally, there shall be no difference between the Citizen Referenda and Congress Referenda, except for:
@@ -112,7 +112,7 @@ The Referendum shall be open to participation by all Citizens 15 years of age or
      b. In conformity with Art. 79 Section 1/2 of the Constitution, they shall differ in ways how the voting requirement is tallied.
 
 #### Article 7: Drafting a Proposal
-1. To initiate a Positive Referendum, the Citizen or the Congress shall draft a Proposal in its final form. The draft shall be prepared to a professional standard.
+1. To initiate a Meritocratic Referendum, the Citizen or the Congress shall draft a Proposal in its final form. The draft shall be prepared to a professional standard.
 2. The draft shall adhere strictly to the Legislative Rules of the Government, both in content and form.
 
 #### Article 8: Formal Requirements
@@ -182,9 +182,9 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
 2. Insufficient quality or omission of the mandatory RIA or Reasoning  may also constitute a valid ground for cancellation initiated by the Senate.
 3. The Supreme Court shall hear disputes where the quality control performing organ stands as the defendant and the dispute subject matter is the performance of the quality control.
 
-## Chapter 3: Negative Referendum Process
+## Chapter 3: Democratic Veto Process
 #### Article 16: Proposing a Public Veto
-1. A Citizen may initiate a Negative Referendum in the form of a Public Veto utilizing the tools provided for this purpose by the Government.
+1. A Citizen may initiate a Democratic Veto in the form of a Public Veto utilizing the tools provided for this purpose by the Government.
 2. The Citizen shall specify:
 
     a. The category of the legislative instrument targeted for revocation;
@@ -203,10 +203,10 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
 
         iii. Significantly undermines the classically liberal political orientation of Liberland.
 
-3. Public Veto shall cost the same amount in Referendum Free as a Citizen-originated General Referendum.
+3. Public Veto shall cost the same amount in Referendum Free as a Citizen-originated Meritocratic Referendum.
 
 #### Article 17: Proposing a Dismissal
-1. A Citizen may also initiate a Negative Referendum in the form of a Dismissal using the Government-provided tools.
+1. A Citizen may also initiate a Democratic Veto in the form of a Dismissal using the Government-provided tools.
 2. The Citizen shall specify:
 
      a. The category of the official targeted for dismissal;
@@ -221,16 +221,16 @@ The Voting Requirement for the passing of a Congress Proposal through a Referend
 
         ii. The official has habitually or severely acted against the life, liberty, or property of others, in violation of the Non-Aggression Principle as defined in Article 7 of the Constitution, and such actions have provably caused damage.
 
-#### Article 18: Duration and conditions of a Negative Referendum
-1. Upon submitting the Proposal, it becomes a Negative Referendum immediately.
-2. Unlike the Positive Referendum, the Negative Referendum shall run indefinitely until either the legislative instrument loses legal force by other means or the official is replaced on their position or until it succeeds.
+#### Article 18: Duration and conditions of a Democratic Veto
+1. Upon submitting the Proposal, it becomes a Democratic Veto immediately.
+2. Unlike the Meritocratic Referendum, the Democratic Veto shall run indefinitely until either the legislative instrument loses legal force by other means or the official is replaced on their position or until it succeeds.
 
-#### Article 19: Voting on a Negative Referendum
-1. Voting on a Negative Referendum is conducted in the same system of electronic communication or, where the voting is done traditionally, using similar means as voting on a general Referendum; however, each Citizen has only one vote instead of their Voting Instrument balance.
-2. Like when voting in a Positive Referendum, one can vote in multiple Negative Referenda running concurrently. Likewise, where one votes twice in one Negative Referendum, only the last voting attempt shall be counted such as when one votes in a General Referendum.
+#### Article 19: Voting on a Democratic Veto
+1. Voting on a Democratic Veto is conducted in the same system of electronic communication or, where the voting is done traditionally, using similar means as voting on a Meritocratic Referendum; however, each Citizen has only one vote instead of their Voting Instrument balance.
+2. Like when voting in a Meritocratic Referendum, one can vote in multiple Negative Referenda running concurrently. Likewise, where one votes twice in one Democratic Veto, only the last voting attempt shall be counted such as when one votes in a Meritocratic Referendum.
 
-#### Article 20: Voting Requirement for a Negative Referendum
-In order for a Proposal within a Negative Referendum to be deemed successful, it shall require a minimum of 50 percent plus one vote of the total possible votes.
+#### Article 20: Voting Requirement for a Democratic Veto
+In order for a Proposal within a Democratic Veto to be deemed successful, it shall require a minimum of 50 percent plus one vote of the total possible votes.
 
 #### Article 21: Consequences of a successful Public Veto
 1. Where a piece of legislature is repealed, it shall lose legal force immediately. Where there are provisions in lower legislature dependent on this piece of legislature, these shall likewise lose legal force.
@@ -243,7 +243,7 @@ In order for a Proposal within a Negative Referendum to be deemed successful, it
 3. The Parties in a Case where a dismissed Judge is active shall have the right to replace the Judge, but such a motion must be submitted unanimously. The Court shall in case this motion is submitted according to this Law replace the dismissed Judge with another Judge of comparable qualifications who is not dismissed.
 
 #### Article 23: Quality control and Cancellation
-1. Negative Referendum Proposals that lack one or more of the required elements or are of manifestly unprofessional quality shall be subject to cancellation by Congress pursuant to Article 82 of the Constitution.
+1. Democratic Veto Proposals that lack one or more of the required elements or are of manifestly unprofessional quality shall be subject to cancellation by Congress pursuant to Article 82 of the Constitution.
 2. Such deficiencies may also serve as grounds for cancellation initiated by the Senate.
 3. The Supreme Court shall hear disputes where the quality control performing organ stands as the defendant and the dispute subject matter is the performance of the quality control.
 
