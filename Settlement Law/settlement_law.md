@@ -93,6 +93,10 @@ The Settler must be free from any mental health conditions that could impair the
 ##### Section 2: Insurance for Belongings and Equipment
 Every Settler must insure their personal belongings and also their settling equipment.
 
+#### Article 16: No Criminal Record
+1. The Settler shall have no criminal record before and during their Settlement Effort. Getting convicted of a felony during the Settlement Effort shall result in the termination of the Settlement Effort and the forfeiture of remuneration or a part thereof.
+2. Should the settler be found lying about their criminal record, they shall be further penalized financially above the above-mentioned penalties.
+
 ### Title IV:  Conduct
 #### Article 16: Moral Conduct
 The Settler must treat others and Liberland fairly and even courteously, acting as a responsible, morally developed adult.
